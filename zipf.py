@@ -38,7 +38,8 @@ def plot_frequency(work_name):
 #     work = parts[-1].split('.')[0]
 #     print work
 
-for work_name in [('Mahābhārata', 'Mahabharata'),
+for work_name in [('all', 'all'),
+                  ('Mahābhārata', 'Mahabharata'),
                   ('Rāmāyaṇa', 'Ramayana'), # 'Liṅgapurāṇa', 'Aṣṭāṅgahṛdayasaṃhitā',
                   ('Bṛhatkathāślokasaṃgraha', 'Brihatkathashlokasangraha'),
                   # 'Kūrmapurāṇa',
@@ -48,6 +49,6 @@ for work_name in [('Mahābhārata', 'Mahabharata'),
                   ('Kumārasaṃbhava', 'Kumarasambhava')]:
     plot_frequency(work_name)
 
-plot.legend(loc='upper right')
+plot.legend(loc='upper right', fontsize=8)
 
 plot.savefig('zipf-sanskrit.png')

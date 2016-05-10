@@ -1,2499 +1,2499 @@
-1	ca	indeclinable	121472	3.74%
-2	tad	pronoun	100842	3.10%
-3	na	indeclinable	38101	1.17%
-4	eva	indeclinable	33165	1.02%
-5	mad	pronoun	29928	0.92%
-6	iti	indeclinable	29647	0.91%
-7	tu	indeclinable	29565	0.91%
-8	yad	pronoun	28108	0.86%
-9	api	indeclinable	24645	0.75%
-10	sarva	pronoun	23915	0.73%
-11	idam	pronoun	22625	0.69%
-12	tvad	pronoun	21830	0.67%
-13	bhū	verb	20548	0.63%
-14	tathā	indeclinable	17891	0.55%
-15	as	verb	16646	0.51%
-16	tatas	indeclinable	16157	0.49%
-17	vā	indeclinable	14235	0.43%
-18	hi	indeclinable	14120	0.43%
-19	mahā	indeclinable	13923	0.42%
-20	ādi	noun	11867	0.36%
-21	rājan	noun	11186	0.34%
-22	gam	verb	11152	0.34%
-23	artha	noun	10453	0.32%
-24	tatra	indeclinable	10318	0.31%
-25	iva	indeclinable	10117	0.31%
-26	sa	indeclinable	9708	0.29%
-27	atha	indeclinable	9448	0.29%
-28	evam	indeclinable	9151	0.28%
-29	rasa	noun	8732	0.26%
-30	yathā	indeclinable	8629	0.26%
-31	deva	noun	8528	0.26%
-32	dharma	noun	8472	0.26%
-33	punar	indeclinable	8138	0.25%
-34	ātman	noun	8121	0.25%
-35	ka	pronoun	8058	0.24%
-36	eka	pronoun	7377	0.22%
-37	dā	verb	6940	0.21%
-38	putra	noun	6842	0.21%
-39	loka	noun	6773	0.20%
-40	anya	pronoun	6660	0.20%
-41	para	pronoun	6616	0.20%
-42	karman	noun	6504	0.20%
-43	śru	verb	6481	0.19%
-44	su	indeclinable	6463	0.19%
-45	tadā	indeclinable	6120	0.18%
-46	vai	indeclinable	5821	0.17%
-47	bala	noun	5766	0.17%
-48	brū	verb	5679	0.17%
-49	sva	adjective	5646	0.17%
-50	kaścid	pronoun	5563	0.17%
-51	agni	noun	5028	0.15%
-52	rūpa	noun	5024	0.15%
-53	tri	noun	4805	0.14%
-54	phala	noun	4802	0.14%
-55	guṇa	noun	4788	0.14%
-56	sama	pronoun	4592	0.14%
-57	atra	indeclinable	4584	0.14%
-58	saha	indeclinable	4331	0.13%
-59	mahant	adjective	4299	0.13%
-60	ah	verb	4174	0.12%
-61	pitṛ	noun	4101	0.12%
-62	ratha	noun	4082	0.12%
-63	nara	noun	3965	0.12%
-64	iha	indeclinable	3964	0.12%
-65	indra	noun	3863	0.11%
-66	brahman	noun	3831	0.11%
-67	yoga	noun	3774	0.11%
-68	prāp	verb	3742	0.11%
-69	manas	noun	3657	0.11%
-70	puruṣa	noun	3632	0.11%
-71	jñā	verb	3464	0.10%
-72	ja	adjective	3441	0.10%
-73	ṛṣi	noun	3373	0.10%
-74	bahu	adjective	3360	0.10%
-75	yadi	indeclinable	3356	0.10%
-76	smṛ	verb	3312	0.10%
-77	uttama	adjective	3273	0.10%
-78	pūrva	pronoun	3255	0.10%
-79	vāta	noun	3227	0.09%
-80	kāma	noun	3158	0.09%
-81	tā	noun	3147	0.09%
-82	vat	indeclinable	3124	0.09%
-83	śata	noun	3100	0.09%
-84	pitta	noun	3060	0.09%
-85	nāma	indeclinable	2988	0.09%
-86	yā	verb	2988	0.09%
-87	śara	noun	2925	0.09%
-88	namas	noun	2894	0.08%
-89	dvi	noun	2860	0.08%
-90	man	verb	2844	0.08%
-91	pañcan	adjective	2755	0.08%
-92	vana	noun	2748	0.08%
-93	anta	noun	2737	0.08%
-94	strī	noun	2712	0.08%
-95	yatra	indeclinable	2685	0.08%
-96	mukha	noun	2664	0.08%
-97	sahasra	noun	2641	0.08%
-98	varṇa	noun	2641	0.08%
-99	pravac	verb	2595	0.07%
-100	katham	indeclinable	2582	0.07%
-101	tejas	noun	2536	0.07%
-102	atas	indeclinable	2534	0.07%
-103	kapha	noun	2505	0.07%
-104	āgam	verb	2496	0.07%
-105	go	noun	2462	0.07%
-106	jñāna	noun	2439	0.07%
-107	jala	noun	2425	0.07%
-108	mahātman	adjective	2423	0.07%
-109	devī	noun	2423	0.07%
-110	madhya	noun	2412	0.07%
-111	bhāga	noun	2406	0.07%
-112	guru	noun	2404	0.07%
-113	duḥkha	noun	2390	0.07%
-114	stha	adjective	2389	0.07%
-115	adas	pronoun	2387	0.07%
-116	buddhi	noun	2383	0.07%
-117	vacana	noun	2369	0.07%
-118	saptan	adjective	2367	0.07%
-119	vākya	noun	2362	0.07%
-120	ati	indeclinable	2360	0.07%
-121	labh	verb	2339	0.07%
-122	kārya	noun	2336	0.07%
-123	nṛpa	noun	2320	0.07%
-124	śabda	noun	2310	0.07%
-125	vidhi	noun	2308	0.07%
-126	pūjay	verb	2307	0.07%
-127	bhāva	noun	2306	0.07%
-128	pāda	noun	2305	0.07%
-129	sukha	noun	2231	0.06%
-130	mantra	noun	2229	0.06%
-131	viṣa	noun	2225	0.06%
-132	varṣa	noun	2221	0.06%
-133	ji	verb	2208	0.06%
-134	tasmāt	indeclinable	2204	0.06%
-135	śarīra	noun	2200	0.06%
-136	gaṇa	noun	2190	0.06%
-137	rākṣasa	noun	2184	0.06%
-138	śreṣṭha	adjective	2182	0.06%
-139	nityam	indeclinable	2181	0.06%
-140	daśan	adjective	2177	0.06%
-141	roga	noun	2168	0.06%
-142	bhavant	adjective	2166	0.06%
-143	indriya	noun	2147	0.06%
-144	kathay	verb	2125	0.06%
-145	sadā	indeclinable	2124	0.06%
-146	vipra	noun	2116	0.06%
-147	deha	noun	2116	0.06%
-148	tīrtha	noun	2096	0.06%
-149	kṣip	verb	2087	0.06%
-150	kṣīra	noun	2055	0.06%
-151	īśvara	noun	2050	0.06%
-152	aṃśa	noun	2043	0.06%
-153	sūta	noun	2040	0.06%
-154	ha	indeclinable	2029	0.06%
-155	mṛ	verb	2026	0.06%
-156	adya	indeclinable	2021	0.06%
-157	dina	noun	2019	0.06%
-158	kāraṇa	noun	2017	0.06%
-159	deśa	noun	2014	0.06%
-160	veda	noun	2005	0.06%
-161	vīrya	noun	1994	0.06%
-162	viṣṇu	noun	1989	0.06%
-163	bīja	noun	1987	0.06%
-164	taila	noun	1981	0.06%
-165	anna	noun	1979	0.06%
-166	car	verb	1959	0.06%
-167	jana	noun	1958	0.06%
-168	pati	noun	1949	0.06%
-169	cūrṇa	noun	1943	0.05%
-170	enad	pronoun	1943	0.05%
-171	bhagavant	noun	1930	0.05%
-172	prāṇa	noun	1917	0.05%
-173	yāvat	indeclinable	1908	0.05%
-174	pattra	noun	1903	0.05%
-175	yajña	noun	1893	0.05%
-176	yuddha	noun	1892	0.05%
-177	gati	noun	1890	0.05%
-178	śiras	noun	1890	0.05%
-179	vad	verb	1879	0.05%
-180	vāyu	noun	1860	0.05%
-181	rāja	noun	1860	0.05%
-182	ghna	adjective	1850	0.05%
-183	jvara	noun	1849	0.05%
-184	śakti	noun	1844	0.05%
-185	yadā	indeclinable	1837	0.05%
-186	pada	noun	1825	0.05%
-187	svayam	indeclinable	1821	0.05%
-188	karṇa	noun	1815	0.05%
-189	mūtra	noun	1810	0.05%
-190	nāman	noun	1806	0.05%
-191	hetu	noun	1802	0.05%
-192	madhura	adjective	1799	0.05%
-193	raṇa	noun	1795	0.05%
-194	liṅga	noun	1789	0.05%
-195	darśana	noun	1778	0.05%
-196	bhūmi	noun	1768	0.05%
-197	yudhiṣṭhira	noun	1766	0.05%
-198	vāc	noun	1763	0.05%
-199	tattva	noun	1754	0.05%
-200	sthāna	noun	1746	0.05%
-201	puṣpa	noun	1738	0.05%
-202	vidhā	verb	1736	0.05%
-203	bandh	verb	1721	0.05%
-204	bhrātṛ	noun	1719	0.05%
-205	saṃśaya	noun	1715	0.05%
-206	tulya	adjective	1712	0.05%
-207	vṛt	verb	1699	0.05%
-208	ghora	adjective	1698	0.05%
-209	viśeṣa	noun	1686	0.05%
-210	heman	noun	1686	0.05%
-211	śudh	verb	1683	0.05%
-212	ṛṣabha	noun	1667	0.05%
-213	arh	verb	1651	0.05%
-214	kula	noun	1640	0.05%
-215	sidh	verb	1625	0.05%
-216	droṇa	noun	1623	0.05%
-217	aṣṭan	adjective	1621	0.04%
-218	māṃsa	noun	1612	0.04%
-219	astra	noun	1610	0.04%
-220	apara	pronoun	1604	0.04%
-221	sura	noun	1598	0.04%
-222	puṇya	adjective	1597	0.04%
-223	pūrvam	indeclinable	1593	0.04%
-224	purā	indeclinable	1589	0.04%
-225	hita	adjective	1588	0.04%
-226	bharata	noun	1583	0.04%
-227	sneha	noun	1575	0.04%
-228	kriyā	noun	1571	0.04%
-229	mātṛ	noun	1570	0.04%
-230	māsa	noun	1539	0.04%
-231	sūrya	noun	1535	0.04%
-232	praviś	verb	1532	0.04%
-233	ṣaṣ	adjective	1530	0.04%
-234	dah	verb	1529	0.04%
-235	vrata	noun	1521	0.04%
-236	rājya	noun	1513	0.04%
-237	diś	noun	1508	0.04%
-238	vacas	noun	1490	0.04%
-239	ityādi	adjective	1485	0.04%
-240	śīta	adjective	1483	0.04%
-241	dhana	noun	1482	0.04%
-242	nihan	verb	1475	0.04%
-243	alpa	adjective	1465	0.04%
-244	samyak	indeclinable	1465	0.04%
-245	śāstra	noun	1460	0.04%
-246	hasta	noun	1456	0.04%
-247	hṛ	verb	1438	0.04%
-248	jña	adjective	1434	0.04%
-249	garbha	noun	1432	0.04%
-250	krodha	noun	1432	0.04%
-251	sma	indeclinable	1431	0.04%
-252	pṛthivī	noun	1426	0.04%
-253	uttara	adjective	1423	0.04%
-254	bheda	noun	1422	0.04%
-255	hara	adjective	1416	0.04%
-256	yat	indeclinable	1414	0.04%
-257	ādā	verb	1409	0.04%
-258	jīv	verb	1406	0.04%
-259	marday	verb	1403	0.04%
-260	aśva	noun	1399	0.04%
-261	pracch	verb	1396	0.04%
-262	śūla	noun	1382	0.04%
-263	snigdha	adjective	1376	0.04%
-264	vega	noun	1369	0.04%
-265	pṛthak	indeclinable	1367	0.04%
-266	dvaya	noun	1366	0.04%
-267	agra	noun	1363	0.04%
-268	puṭa	noun	1362	0.04%
-269	śoka	noun	1350	0.04%
-270	bhasman	noun	1350	0.04%
-271	sahita	adjective	1349	0.04%
-272	kanyā	noun	1343	0.04%
-273	bhāvay	verb	1339	0.04%
-274	prajā	noun	1333	0.04%
-275	vijñā	verb	1332	0.04%
-276	vidyā	noun	1330	0.04%
-277	tāvat	indeclinable	1313	0.04%
-278	kuru	noun	1306	0.04%
-279	prati	indeclinable	1304	0.04%
-280	mṛtyu	noun	1300	0.04%
-281	traya	noun	1291	0.03%
-282	anvita	adjective	1285	0.03%
-283	vahni	noun	1277	0.03%
-284	antara	adjective	1261	0.03%
-285	parvata	noun	1256	0.03%
-286	prakṛti	noun	1250	0.03%
-287	viṣaya	noun	1247	0.03%
-288	rakta	noun	1242	0.03%
-289	tap	verb	1235	0.03%
-290	āśrama	noun	1235	0.03%
-291	ced	indeclinable	1229	0.03%
-292	asura	noun	1229	0.03%
-293	kāray	verb	1218	0.03%
-294	pravṛt	verb	1207	0.03%
-295	yatas	indeclinable	1206	0.03%
-296	tala	noun	1205	0.03%
-297	dhātu	noun	1198	0.03%
-298	bhakti	noun	1196	0.03%
-299	ratna	noun	1192	0.03%
-300	udaka	noun	1191	0.03%
-301	hṛdaya	noun	1187	0.03%
-302	gandhaka	noun	1186	0.03%
-303	śakra	noun	1184	0.03%
-304	śatru	noun	1182	0.03%
-305	bhāryā	noun	1181	0.03%
-306	sattama	adjective	1178	0.03%
-307	vānara	noun	1175	0.03%
-308	bhartṛ	noun	1172	0.03%
-309	ardha	noun	1170	0.03%
-310	giri	noun	1168	0.03%
-311	mā	indeclinable	1166	0.03%
-312	vadha	noun	1164	0.03%
-313	snā	verb	1161	0.03%
-314	dāha	noun	1156	0.03%
-315	arka	noun	1148	0.03%
-316	kṛṣṇa	adjective	1143	0.03%
-317	āp	noun	1142	0.03%
-318	dhanus	noun	1137	0.03%
-319	vyadh	verb	1136	0.03%
-320	tāta	noun	1135	0.03%
-321	varjay	verb	1134	0.03%
-322	tikta	adjective	1132	0.03%
-323	tāmra	noun	1130	0.03%
-324	candra	noun	1129	0.03%
-325	sādhu	adjective	1127	0.03%
-326	jṛ	verb	1124	0.03%
-327	yuga	noun	1124	0.03%
-328	rāghava	noun	1119	0.03%
-329	vyādhi	noun	1118	0.03%
-330	adhas	indeclinable	1117	0.03%
-331	rakṣ	verb	1112	0.03%
-332	kṣaṇa	noun	1111	0.03%
-333	sādhay	verb	1108	0.03%
-334	yama	noun	1104	0.03%
-335	janman	noun	1104	0.03%
-336	svarga	noun	1101	0.03%
-337	apaha	adjective	1099	0.03%
-338	oṃ	indeclinable	1098	0.03%
-339	saṃyuj	verb	1095	0.03%
-340	pramāṇa	noun	1095	0.03%
-341	nānā	indeclinable	1094	0.03%
-342	tīkṣṇa	adjective	1090	0.03%
-343	athavā	indeclinable	1083	0.03%
-344	dham	verb	1082	0.03%
-345	dānava	noun	1080	0.03%
-346	upama	adjective	1078	0.03%
-347	bhūyas	indeclinable	1073	0.03%
-348	bhīma	noun	1069	0.03%
-349	gandharva	noun	1061	0.03%
-350	mṛga	noun	1060	0.03%
-351	payas	noun	1055	0.03%
-352	pura	noun	1052	0.03%
-353	adhyāya	noun	1052	0.03%
-354	nitya	adjective	1049	0.03%
-355	vṛtti	noun	1047	0.03%
-356	māyā	noun	1047	0.03%
-357	avāp	verb	1045	0.03%
-358	sev	verb	1045	0.03%
-359	gaja	noun	1041	0.03%
-360	anila	noun	1041	0.03%
-361	sarpis	noun	1036	0.03%
-362	paścāt	indeclinable	1028	0.03%
-363	upe	verb	1020	0.03%
-364	tvac	noun	1019	0.03%
-365	mṛdu	adjective	1019	0.03%
-366	prasāda	noun	1014	0.03%
-367	śak	verb	1011	0.03%
-368	pakṣa	noun	1010	0.03%
-369	abhāva	noun	1008	0.03%
-370	pitāmaha	noun	1004	0.03%
-371	devatā	noun	1002	0.03%
-372	vṛkṣa	noun	1002	0.03%
-373	khalu	indeclinable	1001	0.03%
-374	ūrdhvam	indeclinable	998	0.03%
-375	cintay	verb	997	0.03%
-376	ram	verb	994	0.03%
-377	citta	noun	994	0.03%
-378	samara	noun	992	0.03%
-379	krama	noun	990	0.03%
-380	ātmaka	adjective	990	0.03%
-381	śūra	noun	988	0.03%
-382	śeṣa	noun	985	0.03%
-383	tamas	noun	985	0.03%
-384	yoni	noun	984	0.03%
-385	vaśa	noun	979	0.03%
-386	nadī	noun	975	0.03%
-387	āhāra	noun	973	0.02%
-388	rakṣas	noun	972	0.02%
-389	toya	noun	969	0.02%
-390	padma	noun	966	0.02%
-391	upari	indeclinable	964	0.02%
-392	udara	noun	962	0.02%
-393	āsthā	verb	962	0.02%
-394	sītā	noun	960	0.02%
-395	vidhāna	noun	958	0.02%
-396	abhra	noun	956	0.02%
-397	pāna	noun	951	0.02%
-398	ārta	adjective	948	0.02%
-399	vaiśampāyana	noun	940	0.02%
-400	mūṣā	noun	940	0.02%
-401	maṇḍala	noun	940	0.02%
-402	antar	indeclinable	939	0.02%
-403	vāra	noun	936	0.02%
-404	dhāray	verb	934	0.02%
-405	hṛd	noun	931	0.02%
-406	pāṇi	noun	927	0.02%
-407	pāka	noun	927	0.02%
-408	darśay	verb	927	0.02%
-409	moha	noun	926	0.02%
-410	ākāśa	noun	926	0.02%
-411	sant	adjective	926	0.02%
-412	samanvita	adjective	924	0.02%
-413	netra	noun	924	0.02%
-414	prathama	adjective	922	0.02%
-415	vraṇa	noun	910	0.02%
-416	prīti	noun	908	0.02%
-417	nāśana	adjective	906	0.02%
-418	śilā	noun	903	0.02%
-419	graha	noun	900	0.02%
-420	ākāra	noun	898	0.02%
-421	prī	verb	897	0.02%
-422	sambhava	noun	893	0.02%
-423	anyathā	indeclinable	892	0.02%
-424	āśri	verb	891	0.02%
-425	tadvat	indeclinable	889	0.02%
-426	bhīmasena	noun	888	0.02%
-427	kāsa	noun	888	0.02%
-428	svarṇa	noun	888	0.02%
-429	utthā	verb	887	0.02%
-430	mokṣa	noun	886	0.02%
-431	ābha	adjective	884	0.02%
-432	vṛddhi	noun	884	0.02%
-433	rātri	noun	876	0.02%
-434	siṃha	noun	875	0.02%
-435	kaṣāya	adjective	874	0.02%
-436	manda	adjective	871	0.02%
-437	yaśas	noun	867	0.02%
-438	puṃs	noun	866	0.02%
-439	rāga	noun	866	0.02%
-440	daitya	noun	865	0.02%
-441	jīvita	noun	864	0.02%
-442	ga	adjective	863	0.02%
-443	mūrdhan	noun	862	0.02%
-444	sthāpay	verb	862	0.02%
-445	ubh	pronoun	860	0.02%
-446	dru	verb	860	0.02%
-447	saṃyuta	adjective	858	0.02%
-448	ahar	noun	855	0.02%
-449	pāpa	adjective	850	0.02%
-450	kvacid	indeclinable	850	0.02%
-451	haya	noun	848	0.02%
-452	śvāsa	noun	843	0.02%
-453	pīta	adjective	842	0.02%
-454	prada	adjective	841	0.02%
-455	kāya	noun	840	0.02%
-456	pradā	verb	838	0.02%
-457	svabhāva	noun	838	0.02%
-458	jap	verb	836	0.02%
-459	koṭi	noun	834	0.02%
-460	yantra	noun	833	0.02%
-461	dvādaśan	adjective	833	0.02%
-462	vyāghra	noun	831	0.02%
-463	bhṛśam	indeclinable	831	0.02%
-464	sāgara	noun	830	0.02%
-465	aṅgula	noun	829	0.02%
-466	karaṇa	noun	828	0.02%
-467	śaṃkara	noun	827	0.02%
-468	yojay	verb	822	0.02%
-469	dhīmant	adjective	822	0.02%
-470	vinā	indeclinable	820	0.02%
-471	dīp	verb	817	0.02%
-472	mahādeva	noun	814	0.02%
-473	mitra	noun	813	0.02%
-474	yaj	verb	812	0.02%
-475	muhur	indeclinable	811	0.02%
-476	tila	noun	811	0.02%
-477	vikāra	noun	810	0.02%
-478	vraj	verb	810	0.02%
-479	sambhū	verb	810	0.02%
-480	ātmaja	noun	808	0.02%
-481	auṣadha	noun	808	0.02%
-482	janay	verb	807	0.02%
-483	sadṛśa	adjective	806	0.02%
-484	citra	adjective	806	0.02%
-485	snāna	noun	805	0.02%
-486	bhakṣay	verb	803	0.02%
-487	maheśvara	noun	800	0.02%
-488	saṃyoga	noun	799	0.02%
-489	vikrama	noun	796	0.02%
-490	sarvatas	indeclinable	796	0.02%
-491	prayā	verb	792	0.02%
-492	asthi	noun	791	0.02%
-493	satya	adjective	791	0.02%
-494	bhojana	noun	790	0.02%
-495	mākṣika	noun	788	0.02%
-496	rasāyana	noun	786	0.02%
-497	āsāday	verb	785	0.02%
-498	vyākhyā	verb	783	0.02%
-499	hṛṣ	verb	782	0.02%
-500	vaktra	noun	778	0.02%
-501	pūrvavat	indeclinable	777	0.02%
-502	prayuj	verb	775	0.02%
-503	nivṛt	verb	774	0.02%
-504	kara	noun	769	0.02%
-505	ambu	noun	765	0.02%
-506	sārdham	indeclinable	764	0.02%
-507	saṃjaya	noun	763	0.02%
-508	matsya	noun	763	0.02%
-509	vāsudeva	noun	763	0.02%
-510	prayatna	noun	762	0.02%
-511	manuṣya	noun	762	0.02%
-512	praśaṃs	verb	761	0.02%
-513	āvṛ	verb	758	0.02%
-514	mṛd	noun	755	0.02%
-515	śaila	noun	754	0.02%
-516	vidvas	adjective	753	0.02%
-517	nimitta	noun	753	0.02%
-518	śūdra	noun	751	0.02%
-519	nārada	noun	750	0.02%
-520	adharma	noun	750	0.02%
-521	adhipa	noun	749	0.02%
-522	ācar	verb	748	0.02%
-523	niyam	verb	748	0.02%
-524	vasti	noun	747	0.02%
-525	jarā	noun	742	0.02%
-526	saṃdhi	noun	741	0.02%
-527	upāya	noun	741	0.02%
-528	āyā	verb	737	0.02%
-529	bandha	noun	737	0.02%
-530	paraspara	adjective	737	0.02%
-531	dāruṇa	adjective	734	0.02%
-532	sparśa	noun	734	0.02%
-533	gadā	noun	733	0.02%
-534	satatam	indeclinable	732	0.02%
-535	bhāṣ	verb	732	0.02%
-536	bhiṣaj	noun	729	0.02%
-537	ācārya	noun	726	0.02%
-538	kalka	noun	726	0.02%
-539	mukhya	adjective	725	0.02%
-540	śiṣya	noun	724	0.02%
-541	śīla	noun	723	0.02%
-542	viśva	pronoun	719	0.02%
-543	anyonya	adjective	719	0.02%
-544	nārī	noun	719	0.02%
-545	jaya	noun	718	0.02%
-546	mahī	noun	716	0.02%
-547	dhanaṃjaya	noun	713	0.02%
-548	sveda	noun	713	0.02%
-549	ācāra	noun	711	0.02%
-550	vimuc	verb	709	0.02%
-551	samudra	noun	708	0.02%
-552	grahaṇa	noun	708	0.02%
-553	muh	verb	706	0.02%
-554	kaṇṭha	noun	706	0.02%
-555	gātra	noun	700	0.02%
-556	dhyā	verb	699	0.02%
-557	maṇi	noun	697	0.02%
-558	āśraya	noun	697	0.02%
-559	śakya	adjective	696	0.02%
-560	prabhāva	noun	696	0.02%
-561	pīḍay	verb	695	0.02%
-562	prāh	verb	694	0.02%
-563	dṛṣṭi	noun	692	0.02%
-564	budh	verb	690	0.02%
-565	kṣipram	indeclinable	689	0.02%
-566	dhvaja	noun	689	0.02%
-567	kāñcana	noun	688	0.02%
-568	bhī	verb	686	0.02%
-569	kalā	noun	686	0.02%
-570	yatna	noun	685	0.02%
-571	rātra	noun	684	0.02%
-572	kṣetra	noun	682	0.02%
-573	triphalā	noun	681	0.02%
-574	kṣi	verb	681	0.02%
-575	i	verb	677	0.02%
-576	ubhaya	adjective	674	0.02%
-577	ṭaṅkaṇa	noun	673	0.02%
-578	utpad	verb	670	0.02%
-579	lip	verb	670	0.02%
-580	viśeṣataḥ	indeclinable	669	0.02%
-581	cetas	noun	669	0.02%
-582	kathā	noun	668	0.02%
-583	śaṃs	verb	663	0.02%
-584	pṛṣṭha	noun	663	0.02%
-585	vṛdh	verb	662	0.02%
-586	mahābhāga	adjective	662	0.02%
-587	vibhu	adjective	659	0.02%
-588	śopha	noun	659	0.02%
-589	kila	indeclinable	658	0.02%
-590	jāray	verb	657	0.02%
-591	śuddhi	noun	657	0.02%
-592	kṣaudra	noun	657	0.02%
-593	jit	adjective	656	0.02%
-594	pātay	verb	650	0.02%
-595	bhaj	verb	649	0.01%
-596	āśu	indeclinable	649	0.01%
-597	dhṛtarāṣṭra	noun	647	0.01%
-598	prasad	verb	647	0.01%
-599	vaṃśa	noun	645	0.01%
-600	kvātha	noun	644	0.01%
-601	jāti	noun	644	0.01%
-602	āviś	verb	643	0.01%
-603	praṇam	verb	641	0.01%
-604	nu	indeclinable	641	0.01%
-605	abhidhā	verb	640	0.01%
-606	kva	indeclinable	640	0.01%
-607	pūjā	noun	637	0.01%
-608	sadyas	indeclinable	636	0.01%
-609	maraṇa	noun	636	0.01%
-610	stu	verb	627	0.01%
-611	manu	noun	624	0.01%
-612	mada	noun	624	0.01%
-613	dhūma	noun	624	0.01%
-614	āsya	noun	624	0.01%
-615	saṃnibha	adjective	623	0.01%
-616	navan	adjective	621	0.01%
-617	harṣa	noun	621	0.01%
-618	kutas	indeclinable	620	0.01%
-619	śanais	indeclinable	619	0.01%
-620	kramāt	indeclinable	616	0.01%
-621	ojas	noun	616	0.01%
-622	vyāsa	noun	615	0.01%
-623	hu	verb	615	0.01%
-624	prayoga	noun	614	0.01%
-625	ruj	noun	612	0.01%
-626	bali	noun	611	0.01%
-627	senā	noun	611	0.01%
-628	udaya	noun	610	0.01%
-629	vadh	verb	609	0.01%
-630	locana	noun	609	0.01%
-631	prājña	adjective	608	0.01%
-632	gaṅgā	noun	607	0.01%
-633	parvan	noun	605	0.01%
-634	vāri	noun	605	0.01%
-635	utsṛj	verb	603	0.01%
-636	han	adjective	603	0.01%
-637	aneka	adjective	602	0.01%
-638	ākhyā	verb	600	0.01%
-639	dhṛ	verb	599	0.01%
-640	pṛ	verb	598	0.01%
-641	sarvaśas	indeclinable	597	0.01%
-642	sarpa	noun	597	0.01%
-643	dhānya	noun	595	0.01%
-644	āhṛ	verb	595	0.01%
-645	tṛṣṇā	noun	595	0.01%
-646	āruh	verb	595	0.01%
-647	upasthā	verb	592	0.01%
-648	duṣ	verb	592	0.01%
-649	prajāpati	noun	592	0.01%
-650	vivarjay	verb	591	0.01%
-651	muhūrta	noun	591	0.01%
-652	svap	verb	591	0.01%
-653	abhraka	noun	590	0.01%
-654	arcay	verb	590	0.01%
-655	puṃgava	noun	590	0.01%
-656	keśava	noun	588	0.01%
-657	dadhi	noun	588	0.01%
-658	vijñāna	noun	585	0.01%
-659	itara	pronoun	585	0.01%
-660	vasiṣṭha	noun	584	0.01%
-661	dviguṇa	adjective	584	0.01%
-662	prayam	verb	583	0.01%
-663	dhruvam	indeclinable	583	0.01%
-664	dāra	noun	582	0.01%
-665	samprāp	verb	582	0.01%
-666	balin	adjective	580	0.01%
-667	bhuja	noun	579	0.01%
-668	ambhas	noun	578	0.01%
-669	ājya	noun	577	0.01%
-670	keśa	noun	577	0.01%
-671	candana	noun	577	0.01%
-672	kīrtay	verb	576	0.01%
-673	kānta	noun	576	0.01%
-674	sakala	adjective	576	0.01%
-675	danta	noun	574	0.01%
-676	caturtha	adjective	573	0.01%
-677	bāla	adjective	573	0.01%
-678	pippalī	noun	572	0.01%
-679	bhāṇḍa	noun	571	0.01%
-680	pāvaka	noun	570	0.01%
-681	mūrti	noun	570	0.01%
-682	bahis	indeclinable	570	0.01%
-683	śānti	noun	569	0.01%
-684	viś	noun	569	0.01%
-685	saṃkāśa	noun	568	0.01%
-686	saṃskāra	noun	566	0.01%
-687	khyā	verb	566	0.01%
-688	sthira	adjective	566	0.01%
-689	druma	noun	565	0.01%
-690	śuṣka	adjective	565	0.01%
-691	anuttama	adjective	563	0.01%
-692	tena	indeclinable	561	0.01%
-693	svapna	noun	561	0.01%
-694	kadācid	indeclinable	561	0.01%
-695	vah	verb	560	0.01%
-696	kevala	adjective	559	0.01%
-697	tuṣ	verb	559	0.01%
-698	sākṣāt	indeclinable	558	0.01%
-699	saṃgrāma	noun	556	0.01%
-700	vistara	noun	556	0.01%
-701	mahāpurāṇa	noun	555	0.01%
-702	niveday	verb	555	0.01%
-703	āyudha	noun	554	0.01%
-704	path	noun	554	0.01%
-705	anyatra	indeclinable	552	0.01%
-706	samantataḥ	indeclinable	551	0.01%
-707	ṣoḍaśan	adjective	550	0.01%
-708	nipat	verb	550	0.01%
-709	grāma	noun	550	0.01%
-710	asant	adjective	547	0.01%
-711	ānī	verb	547	0.01%
-712	śrama	noun	547	0.01%
-713	vyakta	adjective	546	0.01%
-714	nikṣip	verb	545	0.01%
-715	nāśa	noun	543	0.01%
-716	svara	noun	543	0.01%
-717	prabhu	adjective	542	0.01%
-718	śarkarā	noun	542	0.01%
-719	kumāra	noun	542	0.01%
-720	yava	noun	542	0.01%
-721	kṛtsna	adjective	541	0.01%
-722	śruti	noun	541	0.01%
-723	samaya	noun	539	0.01%
-724	ogha	noun	539	0.01%
-725	nyas	verb	538	0.01%
-726	guḍa	noun	538	0.01%
-727	yudh	noun	538	0.01%
-728	kopa	noun	537	0.01%
-729	jval	verb	535	0.01%
-730	āgama	noun	534	0.01%
-731	udbhava	adjective	533	0.01%
-732	divasa	noun	531	0.01%
-733	jāla	noun	530	0.01%
-734	mānasa	noun	528	0.01%
-735	varga	noun	528	0.01%
-736	hanumant	noun	527	0.01%
-737	niścaya	noun	526	0.01%
-738	patnī	noun	523	0.01%
-739	samāgam	verb	523	0.01%
-740	devadeva	noun	523	0.01%
-741	samāhita	adjective	522	0.01%
-742	anala	noun	522	0.01%
-743	anīka	noun	521	0.01%
-744	kaunteya	noun	521	0.01%
-745	ṛtu	noun	520	0.01%
-746	vināśa	noun	520	0.01%
-747	parākrama	noun	518	0.01%
-748	janārdana	noun	518	0.01%
-749	uta	indeclinable	518	0.01%
-750	ravi	noun	517	0.01%
-751	ānana	noun	516	0.01%
-752	nud	adjective	515	0.01%
-753	param	indeclinable	515	0.01%
-754	jantu	noun	515	0.01%
-755	durlabha	adjective	514	0.01%
-756	niyama	noun	513	0.01%
-757	smṛti	noun	513	0.01%
-758	kha	noun	510	0.01%
-759	kanda	noun	506	0.01%
-760	ācakṣ	verb	505	0.01%
-761	arśas	noun	505	0.01%
-762	sarvatra	indeclinable	505	0.01%
-763	chāyā	noun	504	0.01%
-764	gamana	noun	504	0.01%
-765	daiva	noun	503	0.01%
-766	vapus	noun	503	0.01%
-767	akṣi	noun	502	0.01%
-768	parameśvara	noun	502	0.01%
-769	śobhana	adjective	501	0.01%
-770	nagara	noun	501	0.01%
-771	narmadā	noun	499	0.01%
-772	mātrā	noun	499	0.01%
-773	vidhivat	indeclinable	499	0.01%
-774	upapad	verb	498	0.01%
-775	viśru	verb	498	0.01%
-776	trividha	adjective	495	0.01%
-777	apsaras	noun	494	0.01%
-778	lobha	noun	493	0.01%
-779	prakīrtay	verb	493	0.01%
-780	visṛj	verb	491	0.01%
-781	pratigrah	verb	491	0.01%
-782	pratyaya	noun	491	0.01%
-783	kalpay	verb	491	0.01%
-784	nṛpati	noun	490	0.01%
-785	madhye	indeclinable	490	0.01%
-786	rudhira	noun	490	0.01%
-787	pūray	verb	488	0.01%
-788	sthiti	noun	487	0.01%
-789	rati	noun	487	0.01%
-790	ari	noun	485	0.01%
-791	bāhya	adjective	485	0.01%
-792	jyotis	noun	484	0.01%
-793	vadana	noun	484	0.01%
-794	tantra	noun	483	0.01%
-795	śārdūla	noun	483	0.01%
-796	māna	noun	483	0.01%
-797	jāraṇa	noun	483	0.01%
-798	avasthā	verb	482	0.01%
-799	yojana	noun	482	0.01%
-800	pravṛtti	noun	481	0.01%
-801	kṛṣṇā	noun	481	0.01%
-802	viśiṣ	verb	480	0.01%
-803	kaṭuka	adjective	480	0.01%
-804	jihvā	noun	480	0.01%
-805	bhṛ	verb	480	0.01%
-806	bāndhava	noun	479	0.01%
-807	sūtra	noun	479	0.01%
-808	ekaika	adjective	479	0.01%
-809	nāda	noun	478	0.01%
-810	kanaka	noun	478	0.01%
-811	bhañj	verb	478	0.01%
-812	pakṣin	noun	478	0.01%
-813	parāyaṇa	noun	478	0.01%
-814	samīpa	noun	478	0.01%
-815	udāhṛ	verb	477	0.01%
-816	saṃyuga	noun	477	0.01%
-817	asra	noun	477	0.01%
-818	parityaj	verb	476	0.01%
-819	dyuti	noun	476	0.01%
-820	medas	noun	474	0.01%
-821	saṃsthā	verb	474	0.01%
-822	dvijottama	noun	473	0.01%
-823	cūrṇay	verb	472	0.01%
-824	kuśala	adjective	471	0.01%
-825	paṭh	verb	469	0.01%
-826	śīghram	indeclinable	469	0.01%
-827	viśudh	verb	468	0.01%
-828	kumbha	noun	468	0.01%
-829	citraka	noun	468	0.01%
-830	kartṛ	adjective	468	0.01%
-831	bandhana	noun	467	0.01%
-832	śuddha	adjective	467	0.01%
-833	utpatti	noun	467	0.01%
-834	dugdha	noun	466	0.01%
-835	kaścana	pronoun	465	0.01%
-836	vṛṣya	adjective	465	0.01%
-837	sarga	noun	465	0.01%
-838	mantrin	noun	465	0.01%
-839	nibha	adjective	464	0.01%
-840	anu	indeclinable	464	0.01%
-841	vardhana	adjective	464	0.01%
-842	nidhā	verb	463	0.01%
-843	rūpin	adjective	462	0.01%
-844	haṃsa	noun	461	0.01%
-845	kṛmi	noun	460	0.01%
-846	ābharaṇa	noun	460	0.01%
-847	sahasraśas	indeclinable	460	0.01%
-848	pālay	verb	460	0.01%
-849	prātar	indeclinable	459	0.01%
-850	guñjā	noun	459	0.01%
-851	udyam	verb	458	0.01%
-852	bhūṣaṇa	noun	457	0.01%
-853	anugam	verb	457	0.01%
-854	amita	adjective	456	0.01%
-855	lavaṇa	adjective	456	0.01%
-856	śāpa	noun	455	0.01%
-857	sirā	noun	455	0.01%
-858	pāśa	noun	454	0.01%
-859	dāpay	verb	454	0.01%
-860	sthūla	adjective	454	0.01%
-861	dhārtarāṣṭra	noun	452	0.01%
-862	lepa	noun	451	0.01%
-863	ātura	adjective	448	0.01%
-864	vinaś	verb	448	0.01%
-865	prakṛ	verb	448	0.01%
-866	īdṛśa	adjective	448	0.01%
-867	ghaṭa	noun	448	0.01%
-868	nidrā	noun	447	0.01%
-869	ātapa	noun	447	0.01%
-870	lepay	verb	446	0.01%
-871	vibhāga	noun	446	0.01%
-872	prapad	verb	446	0.01%
-873	saṃkrudh	verb	446	0.01%
-874	kuntī	noun	444	0.01%
-875	aiśvarya	noun	444	0.01%
-876	lābha	noun	443	0.01%
-877	vedanā	noun	443	0.01%
-878	samāna	adjective	442	0.01%
-879	āhava	noun	441	0.01%
-880	srotas	noun	441	0.01%
-881	kaurava	noun	441	0.01%
-882	kīrti	noun	440	0.01%
-883	ākṛti	noun	440	0.01%
-884	bhāra	noun	440	0.01%
-885	vijaya	noun	440	0.01%
-886	mūrchā	noun	439	0.01%
-887	sutā	noun	439	0.01%
-888	atī	verb	439	0.01%
-889	ananta	adjective	439	0.01%
-890	sampūjay	verb	438	0.01%
-891	prakāra	noun	438	0.01%
-892	sabhā	noun	438	0.01%
-893	īkṣaṇa	noun	437	0.01%
-894	akhila	adjective	436	0.01%
-895	marman	noun	436	0.01%
-896	sātyaki	noun	432	0.01%
-897	bandhu	noun	432	0.01%
-898	icchā	noun	431	0.01%
-899	ārabh	verb	430	0.01%
-900	rāṣṭra	noun	430	0.01%
-901	same	verb	429	0.01%
-902	madya	noun	428	0.01%
-903	kathaṃcana	indeclinable	428	0.01%
-904	laṅkā	noun	428	0.01%
-905	māṣa	noun	428	0.01%
-906	yathāvat	indeclinable	427	0.01%
-907	vikṛ	verb	426	0.01%
-908	pāñcāla	noun	426	0.01%
-909	nātha	noun	426	0.01%
-910	saṃhitā	noun	426	0.01%
-911	āyam	verb	426	0.01%
-912	saṃgha	noun	426	0.01%
-913	abhigam	verb	425	0.01%
-914	kṣatra	noun	425	0.01%
-915	aśana	noun	424	0.01%
-916	avyaya	adjective	422	0.01%
-917	saṃvatsara	noun	422	0.01%
-918	ciram	indeclinable	420	0.01%
-919	mālā	noun	417	0.01%
-920	puṭ	verb	416	0.01%
-921	purī	noun	415	0.01%
-922	śauca	noun	414	0.01%
-923	saṃjan	verb	414	0.01%
-924	ripu	noun	413	0.01%
-925	coday	verb	412	0.01%
-926	uras	noun	412	0.01%
-927	vṛ	verb	411	0.01%
-928	pratiṣṭhā	verb	411	0.01%
-929	nibudh	verb	409	0.01%
-930	varuṇa	noun	408	0.01%
-931	saṃsāra	noun	408	0.01%
-932	pū	verb	408	0.01%
-933	arday	verb	408	0.01%
-934	dvividha	adjective	408	0.01%
-935	āḍhya	adjective	408	0.01%
-936	itas	indeclinable	407	0.01%
-937	yasmāt	indeclinable	407	0.01%
-938	saptadhā	indeclinable	407	0.01%
-939	adhigam	verb	406	0.01%
-940	prāñc	adjective	405	0.01%
-941	gagana	noun	405	0.01%
-942	yukti	noun	405	0.01%
-943	sarvadā	indeclinable	405	0.01%
-944	saras	noun	405	0.01%
-945	nakṣatra	noun	405	0.01%
-946	nūnam	indeclinable	404	0.01%
-947	bṛhaspati	noun	404	0.01%
-948	upalabh	verb	404	0.01%
-949	prakāśa	noun	404	0.01%
-950	tūrṇam	indeclinable	402	0.01%
-951	nāḍī	noun	401	0.01%
-952	bhṛgu	noun	401	0.01%
-953	bhūṣay	verb	401	0.01%
-954	tṛ	verb	401	0.01%
-955	bhā	verb	401	0.01%
-956	vatsa	noun	400	0.01%
-957	vihā	verb	400	0.01%
-958	gada	noun	400	0.01%
-959	lakṣay	verb	400	0.01%
-960	ūru	noun	400	0.01%
-961	ṛte	indeclinable	397	0.01%
-962	stambha	noun	397	0.01%
-963	vāray	verb	397	0.01%
-964	kāṣṭha	noun	397	0.01%
-965	iṣvāsa	noun	396	0.01%
-966	akṣaya	adjective	396	0.01%
-967	vyavasthā	verb	396	0.01%
-968	vyoman	noun	395	0.01%
-969	vaidehī	noun	395	0.01%
-970	dhā	verb	395	0.01%
-971	alam	indeclinable	395	0.01%
-972	dvaṃdva	noun	394	0.01%
-973	ārti	noun	394	0.01%
-974	duḥkhita	adjective	394	0.01%
-975	kaṇḍū	noun	393	0.01%
-976	avyakta	noun	392	0.01%
-977	bhavana	noun	392	0.01%
-978	purīṣa	noun	391	0.01%
-979	samācar	verb	391	0.01%
-980	bindu	noun	391	0.01%
-981	niśā	verb	391	0.01%
-982	sāhasra	adjective	391	0.01%
-983	ahaṃkāra	noun	391	0.01%
-984	niṣka	noun	390	0.01%
-985	sāyaka	noun	390	0.01%
-986	svana	noun	388	0.01%
-987	adhī	verb	388	0.01%
-988	vinikṣip	verb	387	0.01%
-989	śambhu	noun	387	0.01%
-990	idānīm	indeclinable	387	0.01%
-991	svāhā	indeclinable	386	0.01%
-992	lih	verb	386	0.01%
-993	bheṣaja	noun	385	0.01%
-994	carman	noun	385	0.01%
-995	gras	verb	385	0.01%
-996	mukti	noun	385	0.01%
-997	latā	noun	384	0.01%
-998	khaḍga	noun	384	0.01%
-999	vṛṣṭi	noun	384	0.01%
-1000	parivāray	verb	384	0.01%
-1001	śodhay	verb	383	0.01%
-1002	śāsana	noun	383	0.01%
-1003	purāṇa	noun	383	0.01%
-1004	madhuka	noun	383	0.01%
-1005	indu	noun	383	0.01%
-1006	bhram	verb	381	0.01%
-1007	śūnya	adjective	381	0.01%
-1008	nirmā	verb	381	0.01%
-1009	krameṇa	indeclinable	381	0.01%
-1010	dvijāti	noun	380	0.01%
-1011	a	indeclinable	380	0.01%
-1012	śoṣa	noun	379	0.01%
-1013	abhivāday	verb	379	0.01%
-1014	tīra	noun	378	0.01%
-1015	ariṃdama	adjective	378	0.01%
-1016	tridhā	indeclinable	378	0.01%
-1017	parikīrtay	verb	377	0.01%
-1018	avekṣ	verb	376	0.01%
-1019	martya	noun	376	0.01%
-1020	śreyas	noun	375	0.01%
-1021	yathāvidhi	indeclinable	375	0.01%
-1022	mahīpati	noun	375	0.01%
-1023	kāñjika	noun	374	0.01%
-1024	prativac	verb	374	0.01%
-1025	yodha	noun	374	0.01%
-1026	paraṃtapa	adjective	373	0.01%
-1027	viṃśati	noun	373	0.01%
-1028	viḍa	noun	372	0.01%
-1029	abhihan	verb	372	0.01%
-1030	māhātmya	noun	371	0.01%
-1031	upagam	verb	371	0.01%
-1032	chidra	noun	370	0.01%
-1033	dhī	noun	370	0.01%
-1034	prekṣ	verb	370	0.01%
-1035	duhitṛ	noun	369	0.01%
-1036	lakṣmī	noun	369	0.01%
-1037	kali	noun	368	0.01%
-1038	sattva	noun	368	0.01%
-1039	kup	verb	368	0.01%
-1040	nanu	indeclinable	368	0.01%
-1041	sarit	noun	367	0.01%
-1042	amātya	noun	367	0.01%
-1043	grāsa	noun	367	0.01%
-1044	dharmarāja	noun	367	0.01%
-1045	anugraha	noun	366	0.01%
-1046	śrotra	noun	366	0.01%
-1047	prāṇin	noun	365	0.01%
-1048	upayuj	verb	365	0.01%
-1049	daivata	noun	364	0.01%
-1050	kleśa	noun	364	0.01%
-1051	narādhipa	noun	364	0.01%
-1052	abhidru	verb	364	0.01%
-1053	adhipati	noun	363	0.01%
-1054	tṛṇa	noun	363	0.01%
-1055	bhṛtya	noun	363	0.01%
-1056	alaṃkṛ	verb	362	0.01%
-1057	krūra	adjective	362	0.01%
-1058	ālaya	noun	362	0.01%
-1059	mohay	verb	362	0.01%
-1060	virudh	verb	361	0.01%
-1061	pannaga	noun	361	0.01%
-1062	vaidya	noun	360	0.01%
-1063	aṅguli	noun	360	0.01%
-1064	viparīta	adjective	360	0.01%
-1065	vikalpa	noun	360	0.01%
-1066	prabhava	noun	360	0.01%
-1067	ṣaṣṭha	adjective	360	0.01%
-1068	kratu	noun	359	0.01%
-1069	oṣadhi	noun	359	0.01%
-1070	vicar	verb	359	0.01%
-1071	homa	noun	359	0.01%
-1072	māray	verb	358	0.01%
-1073	kamala	noun	358	0.01%
-1074	viji	verb	358	0.01%
-1075	samāsāday	verb	358	0.01%
-1076	cintā	noun	358	0.01%
-1077	roman	noun	357	0.01%
-1078	yaśasvin	adjective	357	0.01%
-1079	abhyāsa	noun	357	0.01%
-1080	prahas	verb	357	0.01%
-1081	vināśana	adjective	357	0.01%
-1082	hastin	noun	356	0.01%
-1083	skandha	noun	355	0.01%
-1084	deveśa	noun	355	0.01%
-1085	paścima	adjective	354	0.01%
-1086	anantaram	indeclinable	354	0.01%
-1087	svāmin	noun	354	0.01%
-1088	samartha	adjective	354	0.01%
-1089	vand	verb	354	0.01%
-1090	rahita	adjective	354	0.01%
-1091	cāru	adjective	352	0.01%
-1092	vidura	noun	352	0.01%
-1093	vacā	noun	352	0.01%
-1094	vyasana	noun	352	0.01%
-1095	saṅga	noun	352	0.01%
-1096	kuśa	noun	351	0.01%
-1097	cira	adjective	351	0.01%
-1098	viśvāmitra	noun	351	0.01%
-1099	prahṛṣ	verb	351	0.01%
-1100	chardi	noun	350	0.01%
-1101	viparyaya	noun	350	0.01%
-1102	rujā	noun	350	0.01%
-1103	ślakṣṇa	adjective	349	0.01%
-1104	ākula	adjective	349	0.01%
-1105	vikhyā	verb	349	0.01%
-1106	śākhā	noun	349	0.01%
-1107	āpad	noun	348	0.01%
-1108	vājin	noun	348	0.01%
-1109	antardhā	verb	348	0.01%
-1110	meha	noun	347	0.01%
-1111	marica	noun	347	0.01%
-1112	yāc	verb	347	0.01%
-1113	raśmi	noun	346	0.01%
-1114	sārathi	noun	345	0.01%
-1115	apatya	noun	345	0.01%
-1116	dhṛṣṭadyumna	noun	345	0.01%
-1117	cyu	verb	344	0.01%
-1118	nija	adjective	343	0.01%
-1119	lakṣa	noun	343	0.01%
-1120	dama	noun	343	0.01%
-1121	aṣṭama	adjective	343	0.01%
-1122	agratas	indeclinable	343	0.01%
-1123	kuṇḍala	noun	342	0.01%
-1124	prasidh	verb	342	0.01%
-1125	antarikṣa	noun	342	0.01%
-1126	īray	verb	342	0.01%
-1127	upaviś	verb	341	0.01%
-1128	sveday	verb	340	0.01%
-1129	uraga	noun	340	0.01%
-1130	stana	noun	339	0.01%
-1131	drupada	noun	339	0.01%
-1132	āhan	verb	339	0.01%
-1133	jñāti	noun	339	0.01%
-1134	arha	adjective	339	0.01%
-1135	tāpya	noun	339	0.01%
-1136	veṣṭay	verb	338	0.01%
-1137	nirdiś	verb	337	0.01%
-1138	japa	noun	336	0.01%
-1139	tvar	verb	336	0.01%
-1140	vigraha	noun	336	0.01%
-1141	caturvidha	adjective	336	0.01%
-1142	sitā	noun	335	0.01%
-1143	raudra	adjective	334	0.01%
-1144	meru	noun	334	0.01%
-1145	svarūpa	noun	334	0.01%
-1146	vibhaj	verb	334	0.01%
-1147	khara	noun	334	0.01%
-1148	āyatana	noun	334	0.01%
-1149	dūta	noun	333	0.01%
-1150	anṛta	noun	333	0.01%
-1151	sāman	noun	333	0.01%
-1152	sampuṭa	noun	332	0.01%
-1153	śulba	noun	332	0.01%
-1154	guṭikā	noun	332	0.01%
-1155	śloka	noun	331	0.01%
-1156	yauvana	noun	331	0.01%
-1157	prabhṛti	indeclinable	331	0.01%
-1158	sakhī	noun	331	0.01%
-1159	vedha	noun	330	0.01%
-1160	śama	noun	330	0.01%
-1161	tapasvin	noun	329	0.01%
-1162	tāḍay	verb	329	0.01%
-1163	saptama	adjective	329	0.01%
-1164	mata	noun	329	0.01%
-1165	āhvaya	noun	328	0.01%
-1166	aho	indeclinable	328	0.01%
-1167	sakhi	noun	328	0.01%
-1168	tarpay	verb	328	0.01%
-1169	surā	noun	328	0.01%
-1170	sarvathā	indeclinable	328	0.01%
-1171	sru	verb	327	0.01%
-1172	tṛp	verb	327	0.01%
-1173	aśvamedha	noun	327	0.01%
-1174	madana	noun	327	0.01%
-1175	veśman	noun	327	0.01%
-1176	vāhana	noun	326	0.01%
-1177	nāśay	verb	326	0.01%
-1178	dvidhā	indeclinable	326	0.01%
-1179	buddhimant	adjective	325	0.01%
-1180	śoṣay	verb	325	0.01%
-1181	adhiṣṭhā	verb	325	0.01%
-1182	saṃdeha	noun	325	0.01%
-1183	marut	noun	324	0.00%
-1184	pācay	verb	323	0.00%
-1185	dakṣa	noun	323	0.00%
-1186	ayuta	noun	323	0.00%
-1187	atikram	verb	323	0.00%
-1188	adhama	adjective	323	0.00%
-1189	bhojay	verb	323	0.00%
-1190	saṃdhā	verb	323	0.00%
-1191	āma	noun	323	0.00%
-1192	aśru	noun	323	0.00%
-1193	sahāya	noun	322	0.00%
-1194	dhāraṇa	noun	322	0.00%
-1195	kṛpa	noun	322	0.00%
-1196	saṃgraha	noun	321	0.00%
-1197	tyāga	noun	321	0.00%
-1198	nad	verb	321	0.00%
-1199	durbala	adjective	321	0.00%
-1200	atithi	noun	321	0.00%
-1201	namaskṛ	verb	321	0.00%
-1202	niṣev	verb	320	0.00%
-1203	vasā	noun	320	0.00%
-1204	viśārada	adjective	320	0.00%
-1205	paryanta	noun	320	0.00%
-1206	ayas	noun	320	0.00%
-1207	kadācana	indeclinable	320	0.00%
-1208	triguṇa	adjective	320	0.00%
-1209	abhiṣic	verb	319	0.00%
-1210	mithyā	indeclinable	318	0.00%
-1211	puṣṭi	noun	318	0.00%
-1212	himavant	noun	318	0.00%
-1213	umā	noun	317	0.00%
-1214	niveśay	verb	317	0.00%
-1215	vistṛ	verb	316	0.00%
-1216	ādhā	verb	316	0.00%
-1217	brahmacarya	noun	315	0.00%
-1218	atyartham	indeclinable	314	0.00%
-1219	nimba	noun	314	0.00%
-1220	upadeśa	noun	312	0.00%
-1221	ārādhay	verb	311	0.00%
-1222	dhātrī	noun	311	0.00%
-1223	nāsā	noun	311	0.00%
-1224	prāk	indeclinable	311	0.00%
-1225	tādṛśa	adjective	310	0.00%
-1226	khalva	noun	309	0.00%
-1227	bhrama	noun	309	0.00%
-1228	prajan	verb	309	0.00%
-1229	udi	verb	309	0.00%
-1230	saṃnidhi	noun	309	0.00%
-1231	kuṣṭha	noun	309	0.00%
-1232	saṃkhya	noun	308	0.00%
-1233	preṣay	verb	308	0.00%
-1234	saṃnipāta	noun	307	0.00%
-1235	sakṛt	indeclinable	307	0.00%
-1236	suvrata	adjective	306	0.00%
-1237	cal	verb	306	0.00%
-1238	saṃgama	noun	306	0.00%
-1239	viṣ	noun	306	0.00%
-1240	evaṃvidha	adjective	306	0.00%
-1241	vimarday	verb	305	0.00%
-1242	iṣu	noun	305	0.00%
-1243	pratyakṣa	adjective	305	0.00%
-1244	granthi	noun	304	0.00%
-1245	tāvant	adjective	304	0.00%
-1246	samāyuj	verb	304	0.00%
-1247	budha	noun	304	0.00%
-1248	ghana	adjective	303	0.00%
-1249	āhvā	verb	303	0.00%
-1250	dīpa	noun	303	0.00%
-1251	dveṣa	noun	301	0.00%
-1252	kānti	noun	301	0.00%
-1253	nirudh	verb	301	0.00%
-1254	kṣudh	noun	301	0.00%
-1255	dhārmika	adjective	301	0.00%
-1256	prasthā	verb	301	0.00%
-1257	adhvan	noun	301	0.00%
-1258	bahuśas	indeclinable	300	0.00%
-1259	mūrchay	verb	300	0.00%
-1260	śuka	noun	300	0.00%
-1261	añjali	noun	300	0.00%
-1262	puraskṛ	verb	300	0.00%
-1263	krīḍ	verb	299	0.00%
-1264	abhibhū	verb	299	0.00%
-1265	tanaya	noun	299	0.00%
-1266	rājarṣi	noun	299	0.00%
-1267	bhārata	adjective	299	0.00%
-1268	dūra	adjective	298	0.00%
-1269	bahudhā	indeclinable	298	0.00%
-1270	bhāj	adjective	298	0.00%
-1271	draupadī	noun	298	0.00%
-1272	hṛdya	adjective	297	0.00%
-1273	niśāmay	verb	297	0.00%
-1274	yayāti	noun	297	0.00%
-1275	yoṣit	noun	297	0.00%
-1276	mil	verb	297	0.00%
-1277	pre	verb	297	0.00%
-1278	catuṣṭaya	noun	296	0.00%
-1279	virāṭa	noun	296	0.00%
-1280	andha	adjective	296	0.00%
-1281	vivāha	noun	296	0.00%
-1282	prastha	noun	296	0.00%
-1283	tāpa	noun	295	0.00%
-1284	śayyā	noun	295	0.00%
-1285	samantāt	indeclinable	295	0.00%
-1286	ghoṣa	noun	295	0.00%
-1287	acala	noun	295	0.00%
-1288	saṃtap	verb	294	0.00%
-1289	ātreya	noun	294	0.00%
-1290	nirgam	verb	294	0.00%
-1291	aruci	noun	294	0.00%
-1292	agrya	adjective	294	0.00%
-1293	gir	noun	294	0.00%
-1294	saṃskṛ	verb	293	0.00%
-1295	saṃkalpa	noun	293	0.00%
-1296	viśāla	adjective	293	0.00%
-1297	majjan	noun	293	0.00%
-1298	amitra	noun	293	0.00%
-1299	gṛdhra	noun	293	0.00%
-1300	niści	verb	293	0.00%
-1301	prayojay	verb	292	0.00%
-1302	śvan	noun	292	0.00%
-1303	caturdaśan	adjective	292	0.00%
-1304	arṇava	noun	292	0.00%
-1305	samādhi	noun	291	0.00%
-1306	sarasvatī	noun	291	0.00%
-1307	bāṣpa	noun	291	0.00%
-1308	abhimukha	adjective	291	0.00%
-1309	rāśi	noun	291	0.00%
-1310	takra	noun	291	0.00%
-1311	atīva	indeclinable	291	0.00%
-1312	rasendra	noun	291	0.00%
-1313	prakṣip	verb	290	0.00%
-1314	dhārin	adjective	290	0.00%
-1315	brāhma	adjective	290	0.00%
-1316	guda	noun	290	0.00%
-1317	rajanī	noun	289	0.00%
-1318	nasya	noun	289	0.00%
-1319	śāli	noun	289	0.00%
-1320	pāyay	verb	288	0.00%
-1321	upāgam	verb	288	0.00%
-1322	sṛṣṭi	noun	288	0.00%
-1323	narendra	noun	287	0.00%
-1324	kuñjara	noun	287	0.00%
-1325	vāda	noun	287	0.00%
-1326	tapodhana	adjective	287	0.00%
-1327	śubh	verb	286	0.00%
-1328	nakula	noun	286	0.00%
-1329	abda	noun	286	0.00%
-1330	śataśas	indeclinable	286	0.00%
-1331	saṃtāpa	noun	286	0.00%
-1332	sahasā	indeclinable	286	0.00%
-1333	prāñjali	adjective	286	0.00%
-1334	śamana	adjective	285	0.00%
-1335	upavāsa	noun	285	0.00%
-1336	mustā	noun	285	0.00%
-1337	prārthay	verb	285	0.00%
-1338	avayava	noun	285	0.00%
-1339	samman	verb	284	0.00%
-1340	śap	verb	283	0.00%
-1341	atho	indeclinable	283	0.00%
-1342	jānu	noun	283	0.00%
-1343	utpāday	verb	283	0.00%
-1344	aṅgiras	noun	283	0.00%
-1345	roṣa	noun	283	0.00%
-1346	ṣaṣṭi	noun	283	0.00%
-1347	śalya	noun	282	0.00%
-1348	ittham	indeclinable	282	0.00%
-1349	pradakṣiṇa	adjective	281	0.00%
-1350	vyāp	verb	281	0.00%
-1351	ṛc	noun	281	0.00%
-1352	nirji	verb	281	0.00%
-1353	atyanta	adjective	281	0.00%
-1354	asi	noun	281	0.00%
-1355	khād	verb	280	0.00%
-1356	hṛt	adjective	280	0.00%
-1357	āpat	verb	280	0.00%
-1358	apahṛ	verb	279	0.00%
-1359	druti	noun	279	0.00%
-1360	gautama	noun	279	0.00%
-1361	caturguṇa	adjective	279	0.00%
-1362	plīhan	noun	279	0.00%
-1363	vibhūṣay	verb	278	0.00%
-1364	miśra	adjective	278	0.00%
-1365	anujñā	verb	278	0.00%
-1366	vīkṣ	verb	278	0.00%
-1367	aśman	noun	278	0.00%
-1368	grahaṇī	noun	278	0.00%
-1369	likh	verb	277	0.00%
-1370	drāvay	verb	277	0.00%
-1371	brahmacārin	noun	277	0.00%
-1372	anuga	adjective	277	0.00%
-1373	e	verb	276	0.00%
-1374	pradāna	noun	276	0.00%
-1375	tiryañc	adjective	276	0.00%
-1376	nivāray	verb	276	0.00%
-1377	taṭa	noun	276	0.00%
-1378	gīta	noun	275	0.00%
-1379	prāya	noun	275	0.00%
-1380	smita	noun	275	0.00%
-1381	āśaya	noun	275	0.00%
-1382	ṣoḍaśa	adjective	274	0.00%
-1383	sukhin	adjective	274	0.00%
-1384	āvantya	noun	273	0.00%
-1385	triṃśat	noun	273	0.00%
-1386	cara	adjective	272	0.00%
-1387	durātman	adjective	272	0.00%
-1388	saṃgam	verb	271	0.00%
-1389	nyāya	noun	271	0.00%
-1390	kṣama	adjective	271	0.00%
-1391	havis	noun	271	0.00%
-1392	drāva	noun	271	0.00%
-1393	bhājana	noun	270	0.00%
-1394	saumitri	noun	270	0.00%
-1395	manaḥśilā	noun	270	0.00%
-1396	preta	noun	269	0.00%
-1397	arcana	noun	269	0.00%
-1398	stanya	noun	269	0.00%
-1399	manyu	noun	269	0.00%
-1400	dhṛti	noun	268	0.00%
-1401	aṇḍa	noun	268	0.00%
-1402	kṣam	verb	268	0.00%
-1403	śikhaṇḍin	noun	267	0.00%
-1404	abhyaṅga	noun	267	0.00%
-1405	sarṣapa	noun	267	0.00%
-1406	rañjay	verb	266	0.00%
-1407	rakṣā	noun	266	0.00%
-1408	kākutstha	noun	266	0.00%
-1409	dhanvantari	noun	266	0.00%
-1410	daśaratha	noun	265	0.00%
-1411	pratāpavant	adjective	265	0.00%
-1412	nirīkṣ	verb	265	0.00%
-1413	sañj	verb	265	0.00%
-1414	dāḍima	noun	265	0.00%
-1415	darśin	adjective	265	0.00%
-1416	nala	noun	264	0.00%
-1417	amala	adjective	264	0.00%
-1418	pragrah	verb	264	0.00%
-1419	anubhū	verb	264	0.00%
-1420	divākara	noun	264	0.00%
-1421	ikṣu	noun	264	0.00%
-1422	tuṣa	noun	264	0.00%
-1423	samīkṣ	verb	264	0.00%
-1424	rūpya	noun	264	0.00%
-1425	tridaśa	noun	263	0.00%
-1426	prasaṅga	noun	263	0.00%
-1427	mudrā	noun	263	0.00%
-1428	vartman	noun	262	0.00%
-1429	parigraha	noun	262	0.00%
-1430	yathākramam	indeclinable	262	0.00%
-1431	vigam	verb	262	0.00%
-1432	ucita	adjective	261	0.00%
-1433	aśeṣa	adjective	261	0.00%
-1434	sthālī	noun	261	0.00%
-1435	vyoṣa	noun	260	0.00%
-1436	svarasa	noun	260	0.00%
-1437	niyuj	verb	260	0.00%
-1438	mās	noun	259	0.00%
-1439	apriya	adjective	259	0.00%
-1440	śruta	noun	259	0.00%
-1441	vālin	noun	258	0.00%
-1442	bhṛt	adjective	258	0.00%
-1443	tanu	adjective	258	0.00%
-1444	pratijñā	verb	258	0.00%
-1445	kūrma	noun	257	0.00%
-1446	aṅganā	noun	257	0.00%
-1447	śarad	noun	257	0.00%
-1448	svastha	adjective	257	0.00%
-1449	tumula	adjective	257	0.00%
-1450	vyavahāra	noun	256	0.00%
-1451	ākram	verb	256	0.00%
-1452	manuja	noun	256	0.00%
-1453	vihṛ	verb	255	0.00%
-1454	mṛttikā	noun	255	0.00%
-1455	pāṣāṇa	noun	255	0.00%
-1456	skānda	noun	255	0.00%
-1457	guhā	noun	254	0.00%
-1458	kārmuka	noun	254	0.00%
-1459	nipātay	verb	254	0.00%
-1460	śikhā	noun	254	0.00%
-1461	bhṛśa	adjective	252	0.00%
-1462	utpat	verb	252	0.00%
-1463	peṣay	verb	252	0.00%
-1464	upacāra	noun	251	0.00%
-1465	rasaka	noun	251	0.00%
-1466	hārin	adjective	251	0.00%
-1467	kadala	noun	251	0.00%
-1468	lalāṭa	noun	251	0.00%
-1469	vasudhā	noun	251	0.00%
-1470	yathānyāyam	indeclinable	251	0.00%
-1471	kāṇḍa	noun	251	0.00%
-1472	āśin	adjective	251	0.00%
-1473	parīkṣ	verb	251	0.00%
-1474	vṛkodara	noun	250	0.00%
-1475	yātrā	noun	250	0.00%
-1476	kānana	noun	250	0.00%
-1477	daṃṣṭra	noun	250	0.00%
-1478	muṣṭi	noun	250	0.00%
-1479	nigraha	noun	250	0.00%
-1480	kumārī	noun	250	0.00%
-1481	etāvant	adjective	249	0.00%
-1482	nidhi	noun	249	0.00%
-1483	krimi	noun	249	0.00%
-1484	pādapa	noun	249	0.00%
-1485	nivṛtti	noun	249	0.00%
-1486	jātu	indeclinable	249	0.00%
-1487	śaśin	noun	249	0.00%
-1488	dūṣay	verb	249	0.00%
-1489	anuṣṭhā	verb	249	0.00%
-1490	jīva	noun	248	0.00%
-1491	svadharma	noun	248	0.00%
-1492	ākhya	adjective	248	0.00%
-1493	drauṇi	noun	248	0.00%
-1494	ārambha	noun	248	0.00%
-1495	balā	noun	248	0.00%
-1496	śakṛt	noun	248	0.00%
-1497	kalpa	adjective	248	0.00%
-1498	sukham	indeclinable	247	0.00%
-1499	pramuc	verb	247	0.00%
-1500	vilap	verb	247	0.00%
-1501	jaṅgama	adjective	247	0.00%
-1502	palāśa	noun	247	0.00%
-1503	chattra	noun	247	0.00%
-1504	darpa	noun	247	0.00%
-1505	vedhay	verb	247	0.00%
-1506	vistāra	noun	247	0.00%
-1507	asādhya	adjective	246	0.00%
-1508	tārā	noun	246	0.00%
-1509	janamejaya	noun	246	0.00%
-1510	kasmāt	indeclinable	246	0.00%
-1511	pratī	verb	246	0.00%
-1512	samāgama	noun	246	0.00%
-1513	saṃghāta	noun	246	0.00%
-1514	gharma	noun	246	0.00%
-1515	saṃjñita	adjective	245	0.00%
-1516	taruṇa	adjective	245	0.00%
-1517	agastya	noun	245	0.00%
-1518	pārvatī	noun	245	0.00%
-1519	sampṛ	verb	245	0.00%
-1520	prāyas	indeclinable	244	0.00%
-1521	vaikrānta	noun	244	0.00%
-1522	drākṣā	noun	244	0.00%
-1523	tāpasa	noun	244	0.00%
-1524	vinyas	verb	244	0.00%
-1525	tṛṣ	noun	243	0.00%
-1526	śrī	verb	243	0.00%
-1527	prāpti	noun	243	0.00%
-1528	hutāśana	noun	243	0.00%
-1529	bhrū	noun	243	0.00%
-1530	niś	noun	243	0.00%
-1531	śobhay	verb	243	0.00%
-1532	prayojana	noun	242	0.00%
-1533	itihāsa	noun	242	0.00%
-1534	vicakṣaṇa	adjective	242	0.00%
-1535	sampad	noun	242	0.00%
-1536	gāyatrī	noun	242	0.00%
-1537	bhūyiṣṭha	adjective	242	0.00%
-1538	kapāla	noun	242	0.00%
-1539	pāta	noun	242	0.00%
-1540	candramas	noun	242	0.00%
-1541	upahan	verb	242	0.00%
-1542	gola	noun	242	0.00%
-1543	kauravya	noun	241	0.00%
-1544	varāha	noun	241	0.00%
-1545	haridrā	noun	241	0.00%
-1546	bhraṃś	verb	240	0.00%
-1547	diṣṭi	noun	240	0.00%
-1548	ekāśīti	noun	240	0.00%
-1549	mudga	noun	239	0.00%
-1550	gāmin	adjective	239	0.00%
-1551	dhūpa	noun	239	0.00%
-1552	tris	indeclinable	239	0.00%
-1553	vyāhṛ	verb	238	0.00%
-1554	upadrava	noun	238	0.00%
-1555	aṅka	noun	238	0.00%
-1556	lohita	adjective	238	0.00%
-1557	bhakṣaṇa	noun	237	0.00%
-1558	adhyayana	noun	237	0.00%
-1559	ālokay	verb	237	0.00%
-1560	pṛṣṭhatas	indeclinable	237	0.00%
-1561	jaṭā	noun	237	0.00%
-1562	phalguna	noun	237	0.00%
-1563	dhātṛ	noun	237	0.00%
-1564	vinī	verb	236	0.00%
-1565	dharaṇī	noun	236	0.00%
-1566	vṛtra	noun	236	0.00%
-1567	anitya	adjective	236	0.00%
-1568	viśeṣeṇa	indeclinable	236	0.00%
-1569	mud	noun	236	0.00%
-1570	abhidhāna	noun	236	0.00%
-1571	paṇḍita	noun	236	0.00%
-1572	garuḍa	noun	236	0.00%
-1573	vighna	noun	236	0.00%
-1574	patha	noun	236	0.00%
-1575	samutthā	verb	235	0.00%
-1576	majj	verb	235	0.00%
-1577	aṅguṣṭha	noun	235	0.00%
-1578	upakram	verb	235	0.00%
-1579	kavi	noun	235	0.00%
-1580	bharadvāja	noun	235	0.00%
-1581	āropay	verb	235	0.00%
-1582	snuhī	noun	235	0.00%
-1583	mahiṣī	noun	235	0.00%
-1584	svādhyāya	noun	234	0.00%
-1585	yuvan	noun	234	0.00%
-1586	pipāsā	noun	233	0.00%
-1587	sah	verb	233	0.00%
-1588	punarnavā	noun	233	0.00%
-1589	gajapuṭa	noun	233	0.00%
-1590	grantha	noun	233	0.00%
-1591	lāghava	noun	232	0.00%
-1592	śakuni	noun	232	0.00%
-1593	satkṛ	verb	232	0.00%
-1594	kāka	noun	231	0.00%
-1595	prāsāda	noun	231	0.00%
-1596	nigrah	verb	231	0.00%
-1597	avaśyam	indeclinable	231	0.00%
-1598	hiṃsā	noun	231	0.00%
-1599	pātaka	noun	231	0.00%
-1600	vartay	verb	231	0.00%
-1601	plu	verb	231	0.00%
-1602	revākhaṇḍa	noun	231	0.00%
-1603	kukṣi	noun	230	0.00%
-1604	īṣat	indeclinable	230	0.00%
-1605	sāvitrī	noun	230	0.00%
-1606	saṃsṛj	verb	230	0.00%
-1607	avatṛ	verb	230	0.00%
-1608	arghya	noun	230	0.00%
-1609	medinī	noun	229	0.00%
-1610	prasū	verb	229	0.00%
-1611	kaśyapa	noun	229	0.00%
-1612	yāvant	adjective	229	0.00%
-1613	sāray	verb	229	0.00%
-1614	cheda	noun	228	0.00%
-1615	āgneya	adjective	228	0.00%
-1616	anuvṛt	verb	228	0.00%
-1617	īpsay	verb	227	0.00%
-1618	līlā	noun	227	0.00%
-1619	prabhū	verb	227	0.00%
-1620	bādh	verb	227	0.00%
-1621	saṃyam	verb	226	0.00%
-1622	saṃgrah	verb	226	0.00%
-1623	adhunā	indeclinable	226	0.00%
-1624	yūthapa	noun	226	0.00%
-1625	maithilī	noun	226	0.00%
-1626	govinda	noun	225	0.00%
-1627	bhānu	noun	225	0.00%
-1628	bhuvana	noun	225	0.00%
-1629	śarāva	noun	225	0.00%
-1630	krāmaṇa	noun	225	0.00%
-1631	darada	noun	224	0.00%
-1632	bhīru	adjective	224	0.00%
-1633	ceṣṭā	noun	224	0.00%
-1634	purohita	noun	224	0.00%
-1635	kāṃsya	noun	224	0.00%
-1636	māraṇa	noun	224	0.00%
-1637	drava	adjective	223	0.00%
-1638	sevā	noun	223	0.00%
-1639	saubhāgya	noun	223	0.00%
-1640	upayoga	noun	223	0.00%
-1641	yukta	adjective	222	0.00%
-1642	dvijasattama	noun	222	0.00%
-1643	krīḍā	noun	222	0.00%
-1644	dam	verb	222	0.00%
-1645	paṭa	noun	221	0.00%
-1646	kulattha	noun	221	0.00%
-1647	kāsīsa	noun	221	0.00%
-1648	saṃhṛ	verb	220	0.00%
-1649	vāhinī	noun	220	0.00%
-1650	yugapad	indeclinable	220	0.00%
-1651	paryāya	noun	220	0.00%
-1652	samāśri	verb	220	0.00%
-1653	unmāda	noun	220	0.00%
-1654	piśāca	noun	220	0.00%
-1655	eraṇḍa	noun	220	0.00%
-1656	naga	noun	220	0.00%
-1657	śaṅkha	noun	220	0.00%
-1658	praṇaś	verb	219	0.00%
-1659	dīkṣā	noun	219	0.00%
-1660	ṛtvij	noun	219	0.00%
-1661	adhikāra	noun	219	0.00%
-1662	kumbhakarṇa	noun	219	0.00%
-1663	puruṣottama	noun	219	0.00%
-1664	sāmya	noun	219	0.00%
-1665	praṇava	noun	218	0.00%
-1666	mahīy	verb	218	0.00%
-1667	anumāna	noun	218	0.00%
-1668	samākhyā	verb	218	0.00%
-1669	samādhā	verb	218	0.00%
-1670	grīvā	noun	218	0.00%
-1671	varṇay	verb	218	0.00%
-1672	dvipa	noun	218	0.00%
-1673	abhiprāya	noun	218	0.00%
-1674	madhusūdana	noun	218	0.00%
-1675	avaman	verb	218	0.00%
-1676	bhakta	noun	217	0.00%
-1677	vyāyāma	noun	217	0.00%
-1678	apāna	noun	217	0.00%
-1679	vivṛdh	verb	217	0.00%
-1680	vṛtta	adjective	217	0.00%
-1681	chandas	noun	217	0.00%
-1682	rākṣasī	noun	217	0.00%
-1683	elā	noun	217	0.00%
-1684	daṃś	verb	217	0.00%
-1685	saṃcaya	noun	217	0.00%
-1686	dyūta	noun	216	0.00%
-1687	manohara	adjective	216	0.00%
-1688	has	verb	216	0.00%
-1689	vedhin	adjective	216	0.00%
-1690	maithuna	noun	216	0.00%
-1691	purogama	adjective	215	0.00%
-1692	praśam	verb	215	0.00%
-1693	guṇavant	adjective	215	0.00%
-1694	anādi	adjective	215	0.00%
-1695	veṣa	noun	215	0.00%
-1696	antaḥpura	noun	214	0.00%
-1697	eṣin	adjective	214	0.00%
-1698	java	noun	214	0.00%
-1699	cetanā	noun	214	0.00%
-1700	rakṣaṇa	noun	214	0.00%
-1701	āgamana	noun	214	0.00%
-1702	vikram	verb	213	0.00%
-1703	prakāś	verb	213	0.00%
-1704	svayambhu	noun	213	0.00%
-1705	saṃsarga	noun	213	0.00%
-1706	anartha	noun	213	0.00%
-1707	tāla	noun	212	0.00%
-1708	retas	noun	212	0.00%
-1709	pariṣvaj	verb	212	0.00%
-1710	velā	noun	212	0.00%
-1711	māriṣa	noun	212	0.00%
-1712	anuyā	verb	211	0.00%
-1713	samādā	verb	211	0.00%
-1714	janaka	noun	211	0.00%
-1715	janapada	noun	211	0.00%
-1716	udīray	verb	211	0.00%
-1717	purastāt	indeclinable	211	0.00%
-1718	carita	noun	211	0.00%
-1719	ūṣman	noun	211	0.00%
-1720	ādhmāna	noun	211	0.00%
-1721	sāmānya	noun	211	0.00%
-1722	śrāvay	verb	210	0.00%
-1723	yam	verb	210	0.00%
-1724	pāṇḍura	adjective	210	0.00%
-1725	pācana	adjective	210	0.00%
-1726	devayānī	noun	210	0.00%
-1727	bhaṅga	noun	210	0.00%
-1728	kuṅkuma	noun	209	0.00%
-1729	kṣata	noun	209	0.00%
-1730	niryā	verb	209	0.00%
-1731	prameha	noun	209	0.00%
-1732	īkṣ	verb	209	0.00%
-1733	hiṅgula	noun	209	0.00%
-1734	puṣ	verb	209	0.00%
-1735	parivṛ	verb	209	0.00%
-1736	dāsa	noun	209	0.00%
-1737	samā	noun	209	0.00%
-1738	hrīṃ	indeclinable	209	0.00%
-1739	vismi	verb	208	0.00%
-1740	vardhay	verb	208	0.00%
-1741	tejasvin	adjective	208	0.00%
-1742	anviṣ	verb	208	0.00%
-1743	abhiṣeka	noun	207	0.00%
-1744	tāvaka	adjective	207	0.00%
-1745	praśna	noun	207	0.00%
-1746	niveśana	noun	207	0.00%
-1747	lokapāla	noun	207	0.00%
-1748	oṣṭha	noun	207	0.00%
-1749	gṛhastha	noun	207	0.00%
-1750	catuḥṣaṣṭi	noun	207	0.00%
-1751	pūjana	noun	207	0.00%
-1752	pralaya	noun	207	0.00%
-1753	arocaka	noun	207	0.00%
-1754	paramātman	noun	207	0.00%
-1755	vyathā	noun	207	0.00%
-1756	skanda	noun	207	0.00%
-1757	dolāyantra	noun	207	0.00%
-1758	ekatra	indeclinable	207	0.00%
-1759	sanatkumāra	noun	207	0.00%
-1760	aśvin	noun	206	0.00%
-1761	vṛthā	indeclinable	206	0.00%
-1762	abhibhāṣ	verb	206	0.00%
-1763	nandin	noun	206	0.00%
-1764	deveśī	noun	206	0.00%
-1765	upavas	verb	206	0.00%
-1766	dhanya	adjective	206	0.00%
-1767	prasāday	verb	206	0.00%
-1768	pāṭhā	noun	205	0.00%
-1769	prāṇāyāma	noun	205	0.00%
-1770	kāmay	verb	205	0.00%
-1771	bhūdhara	noun	205	0.00%
-1772	śvayathu	noun	205	0.00%
-1773	niyoga	noun	204	0.00%
-1774	trā	verb	204	0.00%
-1775	anyatama	adjective	204	0.00%
-1776	mantray	verb	204	0.00%
-1777	saṃkula	adjective	204	0.00%
-1778	anupāna	noun	204	0.00%
-1779	kailāsa	noun	204	0.00%
-1780	ādhāra	noun	204	0.00%
-1781	viṣāda	noun	204	0.00%
-1782	mahiṣa	noun	204	0.00%
-1783	gocara	adjective	203	0.00%
-1784	mahīpāla	noun	203	0.00%
-1785	svasti	noun	203	0.00%
-1786	utsah	verb	203	0.00%
-1787	nānāvidha	adjective	203	0.00%
-1788	vasanta	noun	203	0.00%
-1789	saṃmā	verb	203	0.00%
-1790	udvij	verb	202	0.00%
-1791	divā	indeclinable	202	0.00%
-1792	muktā	noun	202	0.00%
-1793	udadhi	noun	202	0.00%
-1794	kṛpaṇa	adjective	202	0.00%
-1795	śuṇṭhī	noun	202	0.00%
-1796	atīsāra	noun	202	0.00%
-1797	śiśu	noun	202	0.00%
-1798	camū	noun	202	0.00%
-1799	saṃhāra	noun	202	0.00%
-1800	niyojay	verb	202	0.00%
-1801	valī	noun	202	0.00%
-1802	sraj	noun	201	0.00%
-1803	abhyas	verb	201	0.00%
-1804	cit	noun	201	0.00%
-1805	parī	verb	201	0.00%
-1806	pariṇāma	noun	201	0.00%
-1807	vinirmuc	verb	201	0.00%
-1808	nirmuc	verb	201	0.00%
-1809	utsāha	noun	201	0.00%
-1810	kūpa	noun	200	0.00%
-1811	rasarāja	noun	200	0.00%
-1812	kaccit	indeclinable	200	0.00%
-1813	pradhāna	adjective	200	0.00%
-1814	pradāpay	verb	200	0.00%
-1815	vyūha	noun	200	0.00%
-1816	arpay	verb	199	0.00%
-1817	saṃkṣepa	noun	199	0.00%
-1818	samāvṛ	verb	199	0.00%
-1819	matimant	adjective	199	0.00%
-1820	kąp	verb	199	0.00%
-1821	ahi	noun	199	0.00%
-1822	ṛṇa	noun	199	0.00%
-1823	taru	noun	198	0.00%
-1824	dantī	noun	198	0.00%
-1825	samudbhava	noun	198	0.00%
-1826	anvaya	noun	198	0.00%
-1827	daśama	adjective	198	0.00%
-1828	nāla	noun	197	0.00%
-1829	śatāvarī	noun	197	0.00%
-1830	asta	noun	197	0.00%
-1831	saṃśri	verb	197	0.00%
-1832	gotra	noun	197	0.00%
-1833	ātmavant	adjective	197	0.00%
-1834	gairika	noun	197	0.00%
-1835	tanmātra	noun	197	0.00%
-1836	nyāsa	noun	196	0.00%
-1837	hrada	noun	196	0.00%
-1838	śivā	noun	196	0.00%
-1839	saṃvid	noun	196	0.00%
-1840	pradeśa	noun	195	0.00%
-1841	samṛdh	verb	195	0.00%
-1842	chāday	verb	195	0.00%
-1843	abhimanyu	noun	195	0.00%
-1844	samutpad	verb	195	0.00%
-1845	viśeṣāt	indeclinable	194	0.00%
-1846	adṛṣṭa	adjective	194	0.00%
-1847	āyasa	adjective	194	0.00%
-1848	kilbiṣa	noun	194	0.00%
-1849	aṣṭādaśan	adjective	194	0.00%
-1850	taṇḍula	noun	194	0.00%
-1851	dṛḍham	indeclinable	194	0.00%
-1852	adri	noun	194	0.00%
-1853	vī	verb	194	0.00%
-1854	ānāha	noun	194	0.00%
-1855	kiṭṭa	noun	194	0.00%
-1856	gokarṇa	noun	193	0.00%
-1857	śulva	noun	193	0.00%
-1858	sūtaputra	noun	193	0.00%
-1859	pātana	noun	193	0.00%
-1860	anugrah	verb	193	0.00%
-1861	samāhṛ	verb	193	0.00%
-1862	samāviś	verb	193	0.00%
-1863	vicāraṇā	noun	193	0.00%
-1864	putraka	noun	193	0.00%
-1865	lākṣā	noun	193	0.00%
-1866	samāp	verb	193	0.00%
-1867	utsava	noun	193	0.00%
-1868	pravāla	noun	193	0.00%
-1869	medhā	noun	192	0.00%
-1870	khadira	noun	192	0.00%
-1871	kaikeyī	noun	192	0.00%
-1872	saṃhṛṣ	verb	192	0.00%
-1873	parigha	noun	192	0.00%
-1874	gāruḍa	noun	192	0.00%
-1875	śram	verb	192	0.00%
-1876	unnam	verb	192	0.00%
-1877	tras	verb	192	0.00%
-1878	puṣpita	adjective	192	0.00%
-1879	acyuta	noun	191	0.00%
-1880	pīḍā	noun	191	0.00%
-1881	rava	noun	191	0.00%
-1882	hā	indeclinable	191	0.00%
-1883	paripracch	verb	191	0.00%
-1884	gala	noun	190	0.00%
-1885	āvaraṇa	noun	190	0.00%
-1886	aparādha	noun	190	0.00%
-1887	prakalpay	verb	190	0.00%
-1888	vartī	noun	190	0.00%
-1889	kovida	adjective	190	0.00%
-1890	tulā	noun	190	0.00%
-1891	upayā	verb	190	0.00%
-1892	uccais	indeclinable	189	0.00%
-1893	lī	verb	189	0.00%
-1894	raktapitta	noun	189	0.00%
-1895	vaiḍūrya	noun	189	0.00%
-1896	prahi	verb	189	0.00%
-1897	abhighāta	noun	189	0.00%
-1898	alaṃkāra	noun	188	0.00%
-1899	uṣṭra	noun	188	0.00%
-1900	loman	noun	188	0.00%
-1901	abhiyā	verb	188	0.00%
-1902	kiṃnara	noun	188	0.00%
-1903	toṣay	verb	188	0.00%
-1904	mātuluṅga	noun	188	0.00%
-1905	vicintay	verb	187	0.00%
-1906	bhāminī	noun	187	0.00%
-1907	pavitra	noun	187	0.00%
-1908	bṛhatī	noun	187	0.00%
-1909	apekṣā	noun	187	0.00%
-1910	sphur	verb	187	0.00%
-1911	ekādaśan	adjective	187	0.00%
-1912	ajina	noun	187	0.00%
-1913	asakṛt	indeclinable	187	0.00%
-1914	rohiṇī	noun	187	0.00%
-1915	tatpara	adjective	187	0.00%
-1916	sṛñjaya	noun	187	0.00%
-1917	putrī	noun	187	0.00%
-1918	ahorātra	noun	187	0.00%
-1919	añj	verb	187	0.00%
-1920	unmad	verb	187	0.00%
-1921	udyāna	noun	186	0.00%
-1922	bhalla	noun	186	0.00%
-1923	ayodhyā	noun	186	0.00%
-1924	daśagrīva	noun	186	0.00%
-1925	saciva	noun	186	0.00%
-1926	abhidhāv	verb	186	0.00%
-1927	t	noun	186	0.00%
-1928	kevalam	indeclinable	186	0.00%
-1929	mūlya	noun	185	0.00%
-1930	tṛpti	noun	185	0.00%
-1931	tāmasa	adjective	185	0.00%
-1932	dayā	noun	185	0.00%
-1933	pallava	noun	185	0.00%
-1934	tuṣṭi	noun	185	0.00%
-1935	vidradhi	noun	185	0.00%
-1936	anubandha	noun	185	0.00%
-1937	vatsara	noun	185	0.00%
-1938	caryā	noun	185	0.00%
-1939	andhamūṣā	noun	185	0.00%
-1940	prahṛ	verb	185	0.00%
-1941	svedana	noun	185	0.00%
-1942	ujjvala	adjective	184	0.00%
-1943	nirdah	verb	184	0.00%
-1944	nigad	verb	184	0.00%
-1945	prāyaścitta	noun	184	0.00%
-1946	mātaṃga	noun	183	0.00%
-1947	kūla	noun	183	0.00%
-1948	atri	noun	183	0.00%
-1949	puraṃdara	noun	183	0.00%
-1950	maya	noun	183	0.00%
-1951	prathamam	indeclinable	183	0.00%
-1952	revā	noun	183	0.00%
-1953	atisāra	noun	183	0.00%
-1954	ākhyāna	noun	183	0.00%
-1955	upekṣ	verb	182	0.00%
-1956	harītakī	noun	182	0.00%
-1957	rogin	adjective	182	0.00%
-1958	jvālā	noun	182	0.00%
-1959	nṛśaṃsa	adjective	182	0.00%
-1960	nārāca	noun	182	0.00%
-1961	vadhū	noun	182	0.00%
-1962	anindita	adjective	182	0.00%
-1963	amṛtā	noun	182	0.00%
-1964	praveśay	verb	181	0.00%
-1965	upādā	verb	181	0.00%
-1966	āmantray	verb	181	0.00%
-1967	tripura	noun	181	0.00%
-1968	kūṭa	noun	181	0.00%
-1969	sudhā	noun	181	0.00%
-1970	ghaṭotkaca	noun	181	0.00%
-1971	yamunā	noun	181	0.00%
-1972	karpūra	noun	181	0.00%
-1973	mādrī	noun	181	0.00%
-1974	āsad	verb	181	0.00%
-1975	tuttha	noun	180	0.00%
-1976	kaṭi	noun	180	0.00%
-1977	saubhadra	noun	180	0.00%
-1978	niram	verb	180	0.00%
-1979	no	indeclinable	180	0.00%
-1980	guḍūcī	noun	180	0.00%
-1981	nau	noun	179	0.00%
-1982	pravṛdh	verb	179	0.00%
-1983	pathyā	noun	179	0.00%
-1984	vinaya	noun	179	0.00%
-1985	abhayā	noun	179	0.00%
-1986	abhinand	verb	179	0.00%
-1987	hāni	noun	179	0.00%
-1988	jayadratha	noun	179	0.00%
-1989	snāyu	noun	179	0.00%
-1990	saṃrabh	verb	178	0.00%
-1991	saṃśraya	noun	178	0.00%
-1992	gaurī	noun	178	0.00%
-1993	bhāvanā	noun	178	0.00%
-1994	dvāpara	noun	178	0.00%
-1995	bho	indeclinable	178	0.00%
-1996	adhiṣṭhāna	noun	178	0.00%
-1997	cāra	noun	178	0.00%
-1998	prakṣālay	verb	177	0.00%
-1999	uddeśa	noun	177	0.00%
-2000	tretā	noun	177	0.00%
-2001	viśuddhi	noun	177	0.00%
-2002	śamay	verb	177	0.00%
-2003	tvarā	noun	177	0.00%
-2004	pradru	verb	177	0.00%
-2005	abhivṛt	verb	176	0.00%
-2006	sudh	adjective	176	0.00%
-2007	praṇipat	verb	176	0.00%
-2008	karśay	verb	176	0.00%
-2009	anuprāp	verb	176	0.00%
-2010	upaśobhay	verb	176	0.00%
-2011	adhikṛ	verb	176	0.00%
-2012	darbha	noun	175	0.00%
-2013	śilājatu	noun	175	0.00%
-2014	khaga	noun	175	0.00%
-2015	śāṃtanava	noun	175	0.00%
-2016	vartin	adjective	175	0.00%
-2017	mātula	noun	175	0.00%
-2018	vatsala	adjective	175	0.00%
-2019	dhairya	noun	175	0.00%
-2020	bhūti	noun	175	0.00%
-2021	puras	indeclinable	174	0.00%
-2022	lodhra	noun	174	0.00%
-2023	jyā	noun	174	0.00%
-2024	lauha	noun	174	0.00%
-2025	phena	noun	174	0.00%
-2026	pārthiva	adjective	174	0.00%
-2027	caturdaśī	noun	173	0.00%
-2028	piṣṭi	noun	173	0.00%
-2029	caṇḍa	adjective	173	0.00%
-2030	saṃmarday	verb	173	0.00%
-2031	divaukas	noun	173	0.00%
-2032	yodhay	verb	173	0.00%
-2033	prādurbhū	verb	173	0.00%
-2034	saṃkṣaya	noun	173	0.00%
-2035	āśīviṣa	noun	173	0.00%
-2036	ākṛṣ	verb	173	0.00%
-2037	ekaviṃśati	noun	173	0.00%
-2038	hantṛ	adjective	173	0.00%
-2039	sthala	noun	173	0.00%
-2040	vinad	verb	173	0.00%
-2041	kausalyā	noun	172	0.00%
-2042	adhastāt	indeclinable	172	0.00%
-2043	cikitsā	noun	172	0.00%
-2044	vicāray	verb	172	0.00%
-2045	saṃsthāpay	verb	172	0.00%
-2046	niṣkram	verb	172	0.00%
-2047	nirguṇa	adjective	172	0.00%
-2048	samākula	adjective	172	0.00%
-2049	nirghoṣa	noun	172	0.00%
-2050	avakṛ	verb	172	0.00%
-2051	nīti	noun	172	0.00%
-2052	saṃsthāna	noun	172	0.00%
-2053	prasañj	verb	172	0.00%
-2054	varṣā	noun	172	0.00%
-2055	klama	noun	172	0.00%
-2056	musala	noun	172	0.00%
-2057	dharā	noun	172	0.00%
-2058	atandrita	adjective	172	0.00%
-2059	devarāja	noun	172	0.00%
-2060	avadhi	indeclinable	172	0.00%
-2061	vāhay	verb	172	0.00%
-2062	yajus	noun	171	0.00%
-2063	yūṣa	noun	171	0.00%
-2064	hiṃs	verb	171	0.00%
-2065	saṃtyaj	verb	171	0.00%
-2066	abhyañj	verb	171	0.00%
-2067	vyapoh	verb	171	0.00%
-2068	vaha	adjective	171	0.00%
-2069	prakāśay	verb	171	0.00%
-2070	tathāvidha	adjective	171	0.00%
-2071	visarjay	verb	170	0.00%
-2072	grīṣma	noun	170	0.00%
-2073	nisvana	noun	170	0.00%
-2074	śatakratu	noun	170	0.00%
-2075	vasuṃdharā	noun	170	0.00%
-2076	nīla	noun	170	0.00%
-2077	parāśara	noun	170	0.00%
-2078	miśray	verb	170	0.00%
-2079	aṃśaka	noun	170	0.00%
-2080	kṛṣi	noun	169	0.00%
-2081	kruś	verb	169	0.00%
-2082	aśmarī	noun	169	0.00%
-2083	dhvani	noun	169	0.00%
-2084	kathaṃcid	indeclinable	169	0.00%
-2085	puṅkha	noun	169	0.00%
-2086	vairāgya	noun	169	0.00%
-2087	baka	noun	169	0.00%
-2088	suyodhana	noun	169	0.00%
-2089	picchila	adjective	169	0.00%
-2090	pārṣata	noun	169	0.00%
-2091	kīṭa	noun	168	0.00%
-2092	kṛpā	noun	168	0.00%
-2093	niṣad	verb	168	0.00%
-2094	patākā	noun	168	0.00%
-2095	parimāṇa	noun	168	0.00%
-2096	vivṛ	verb	168	0.00%
-2097	parihṛ	verb	168	0.00%
-2098	pañcāśat	noun	168	0.00%
-2099	aṇu	adjective	168	0.00%
-2100	pravīra	noun	168	0.00%
-2101	tandrā	noun	167	0.00%
-2102	varay	verb	167	0.00%
-2103	vitan	verb	167	0.00%
-2104	viṣad	verb	167	0.00%
-2105	ucchri	verb	167	0.00%
-2106	samprekṣ	verb	167	0.00%
-2107	guggulu	noun	167	0.00%
-2108	pratyekam	indeclinable	167	0.00%
-2109	kesara	noun	167	0.00%
-2110	oṃkāra	noun	167	0.00%
-2111	saṃcintay	verb	167	0.00%
-2112	yathākāma	adjective	167	0.00%
-2113	aprameya	adjective	167	0.00%
-2114	sattra	noun	167	0.00%
-2115	niścitam	indeclinable	167	0.00%
-2116	vam	verb	166	0.00%
-2117	vaṭa	noun	166	0.00%
-2118	rekhā	noun	166	0.00%
-2119	avadhya	adjective	166	0.00%
-2120	dayita	adjective	166	0.00%
-2121	adṛśya	adjective	166	0.00%
-2122	gomukha	noun	165	0.00%
-2123	nāśin	adjective	165	0.00%
-2124	saṃkara	noun	165	0.00%
-2125	vinihan	verb	165	0.00%
-2126	śraddhā	verb	165	0.00%
-2127	brahmarṣi	noun	165	0.00%
-2128	varman	noun	165	0.00%
-2129	śatrughna	noun	165	0.00%
-2130	ahiṃsā	noun	165	0.00%
-2131	paṅka	noun	164	0.00%
-2132	medhya	adjective	164	0.00%
-2133	gavya	adjective	164	0.00%
-2134	atula	adjective	164	0.00%
-2135	sū	verb	164	0.00%
-2136	sāmarthya	noun	164	0.00%
-2137	vihāra	noun	164	0.00%
-2138	nirodha	noun	164	0.00%
-2139	sakāśa	noun	164	0.00%
-2140	dhenu	noun	164	0.00%
-2141	ambuja	noun	164	0.00%
-2142	yadṛcchā	noun	164	0.00%
-2143	ketu	noun	164	0.00%
-2144	suparṇa	noun	164	0.00%
-2145	gad	verb	163	0.00%
-2146	anulepana	noun	163	0.00%
-2147	timira	noun	163	0.00%
-2148	dāsī	noun	163	0.00%
-2149	sāṃpratam	indeclinable	163	0.00%
-2150	sevana	noun	163	0.00%
-2151	parivarjay	verb	163	0.00%
-2152	ādāna	noun	163	0.00%
-2153	vyaya	noun	163	0.00%
-2154	samprati	indeclinable	163	0.00%
-2155	devadāru	noun	163	0.00%
-2156	samāsa	noun	163	0.00%
-2157	vibandha	noun	162	0.00%
-2158	pāyasa	noun	162	0.00%
-2159	praveśa	noun	162	0.00%
-2160	dhāv	verb	162	0.00%
-2161	tālu	noun	162	0.00%
-2162	prakopa	noun	162	0.00%
-2163	dhāman	noun	162	0.00%
-2164	vāhin	adjective	162	0.00%
-2165	sambhrama	noun	162	0.00%
-2166	aṅkura	noun	162	0.00%
-2167	apāmārga	noun	162	0.00%
-2168	rukma	noun	162	0.00%
-2169	āplu	verb	162	0.00%
-2170	sampravac	verb	162	0.00%
-2171	tāray	verb	161	0.00%
-2172	niviś	verb	161	0.00%
-2173	saṃhan	verb	161	0.00%
-2174	dundubhi	noun	161	0.00%
-2175	bhujaga	noun	161	0.00%
-2176	upaspṛś	verb	161	0.00%
-2177	manorama	adjective	161	0.00%
-2178	bhojya	noun	161	0.00%
-2179	āśā	noun	161	0.00%
-2180	virodha	noun	161	0.00%
-2181	padāti	noun	161	0.00%
-2182	kapota	noun	161	0.00%
-2183	cikitsita	noun	161	0.00%
-2184	gāṇḍīva	noun	160	0.00%
-2185	pāraga	adjective	160	0.00%
-2186	niḥsṛ	verb	160	0.00%
-2187	parigrah	verb	160	0.00%
-2188	śaṅk	verb	160	0.00%
-2189	maryādā	noun	160	0.00%
-2190	sātvata	noun	160	0.00%
-2191	pratyeka	adjective	160	0.00%
-2192	āmiṣa	noun	160	0.00%
-2193	nirvāṇa	noun	159	0.00%
-2194	jananī	noun	159	0.00%
-2195	abhijñā	verb	159	0.00%
-2196	gālay	verb	159	0.00%
-2197	kanyakā	noun	159	0.00%
-2198	pratimā	noun	159	0.00%
-2199	āgāra	noun	158	0.00%
-2200	sāṃkhya	noun	158	0.00%
-2201	sphuṭa	adjective	158	0.00%
-2202	vālukā	noun	158	0.00%
-2203	kṛcchra	adjective	158	0.00%
-2204	abhipūjay	verb	158	0.00%
-2205	hāra	noun	158	0.00%
-2206	varā	noun	158	0.00%
-2207	dāyin	adjective	157	0.00%
-2208	trivṛt	noun	157	0.00%
-2209	sambandhin	adjective	157	0.00%
-2210	bhaga	noun	157	0.00%
-2211	āśvāsay	verb	157	0.00%
-2212	āśaṃs	verb	157	0.00%
-2213	sindūra	noun	157	0.00%
-2214	laṅghana	noun	157	0.00%
-2215	sadana	noun	157	0.00%
-2216	apratima	adjective	156	0.00%
-2217	mañjiṣṭhā	noun	156	0.00%
-2218	tantu	noun	156	0.00%
-2219	ājñāpay	verb	156	0.00%
-2220	pṛthivīpati	noun	156	0.00%
-2221	śmaśāna	noun	156	0.00%
-2222	uśīra	noun	156	0.00%
-2223	pramadā	noun	156	0.00%
-2224	prath	verb	156	0.00%
-2225	praṇī	verb	156	0.00%
-2226	vindhya	noun	155	0.00%
-2227	jalada	noun	155	0.00%
-2228	ṛch	verb	155	0.00%
-2229	sukṛta	noun	155	0.00%
-2230	ghātin	adjective	155	0.00%
-2231	manoratha	noun	155	0.00%
-2232	vidru	verb	155	0.00%
-2233	vyavasā	verb	155	0.00%
-2234	setu	noun	155	0.00%
-2235	vivāda	noun	155	0.00%
-2236	rahas	noun	155	0.00%
-2237	pravartay	verb	155	0.00%
-2238	hikkā	noun	155	0.00%
-2239	antarātman	noun	155	0.00%
-2240	aśuci	adjective	155	0.00%
-2241	kāmam	indeclinable	154	0.00%
-2242	abhyadhika	adjective	154	0.00%
-2243	vaṇij	noun	154	0.00%
-2244	kirīṭin	noun	154	0.00%
-2245	dharmya	adjective	154	0.00%
-2246	kramaśas	indeclinable	154	0.00%
-2247	ācchāday	verb	154	0.00%
-2248	akṣara	adjective	154	0.00%
-2249	ghātay	verb	154	0.00%
-2250	āsava	noun	154	0.00%
-2251	arbuda	noun	154	0.00%
-2252	pratipāday	verb	154	0.00%
-2253	bhaginī	noun	153	0.00%
-2254	vidyādhara	noun	153	0.00%
-2255	citrasena	noun	153	0.00%
-2256	prahāra	noun	153	0.00%
-2257	abhiman	verb	153	0.00%
-2258	kāmyā	noun	153	0.00%
-2259	ambā	noun	153	0.00%
-2260	saṃdhāna	noun	153	0.00%
-2261	nidāna	noun	153	0.00%
-2262	ādau	indeclinable	153	0.00%
-2263	smi	verb	153	0.00%
-2264	udbhū	verb	152	0.00%
-2265	ākara	noun	152	0.00%
-2266	nirguṇḍī	noun	152	0.00%
-2267	āji	noun	152	0.00%
-2268	hṛṣīkeśa	noun	152	0.00%
-2269	prakup	verb	152	0.00%
-2270	pratigraha	noun	152	0.00%
-2271	devadālī	noun	151	0.00%
-2272	aśvattha	noun	151	0.00%
-2273	yathāsukham	indeclinable	151	0.00%
-2274	kṛṣ	verb	151	0.00%
-2275	indhana	noun	151	0.00%
-2276	aṃśu	noun	151	0.00%
-2277	śarva	noun	151	0.00%
-2278	acetana	adjective	151	0.00%
-2279	grāha	noun	151	0.00%
-2280	vanaspati	noun	151	0.00%
-2281	viśvāsa	noun	151	0.00%
-2282	tomara	noun	151	0.00%
-2283	gāḍham	indeclinable	151	0.00%
-2284	nāsikā	noun	151	0.00%
-2285	kṛtavarman	noun	151	0.00%
-2286	bhikṣā	noun	150	0.00%
-2287	kleda	noun	150	0.00%
-2288	paṭola	noun	150	0.00%
-2289	yavāgū	noun	150	0.00%
-2290	apramatta	adjective	149	0.00%
-2291	cullī	noun	149	0.00%
-2292	duṣkṛta	noun	149	0.00%
-2293	avagam	verb	149	0.00%
-2294	lajjā	noun	149	0.00%
-2295	śyāmā	noun	149	0.00%
-2296	anuśās	verb	149	0.00%
-2297	upapāday	verb	149	0.00%
-2298	savitṛ	noun	148	0.00%
-2299	avalokay	verb	148	0.00%
-2300	adbhuta	noun	148	0.00%
-2301	evamādi	adjective	148	0.00%
-2302	kākamācī	noun	148	0.00%
-2303	bhāvin	adjective	148	0.00%
-2304	pramāda	noun	148	0.00%
-2305	sāhasa	noun	148	0.00%
-2306	parivṛt	verb	148	0.00%
-2307	haṭha	noun	148	0.00%
-2308	tadanu	indeclinable	148	0.00%
-2309	pratiṣedha	noun	148	0.00%
-2310	prapaś	verb	148	0.00%
-2311	vipācay	verb	148	0.00%
-2312	haritāla	noun	148	0.00%
-2313	prāsa	noun	148	0.00%
-2314	vīṇā	noun	147	0.00%
-2315	uparasa	noun	147	0.00%
-2316	arc	verb	147	0.00%
-2317	durjaya	adjective	147	0.00%
-2318	utkarṣa	noun	147	0.00%
-2319	vināśay	verb	147	0.00%
-2320	turaga	noun	147	0.00%
-2321	viśram	verb	147	0.00%
-2322	ulkā	noun	146	0.00%
-2323	kaṣṭa	adjective	146	0.00%
-2324	samavāya	noun	146	0.00%
-2325	bhukti	noun	146	0.00%
-2326	pānīya	noun	146	0.00%
-2327	sphaṭika	noun	146	0.00%
-2328	avagāh	verb	146	0.00%
-2329	samāsthā	verb	146	0.00%
-2330	vajramūṣā	noun	146	0.00%
-2331	aśvatthāman	noun	146	0.00%
-2332	dhik	indeclinable	146	0.00%
-2333	abhipad	verb	146	0.00%
-2334	apanī	verb	146	0.00%
-2335	abhiyuj	verb	146	0.00%
-2336	vijñāpay	verb	146	0.00%
-2337	viśṛ	verb	146	0.00%
-2338	pradīp	verb	145	0.00%
-2339	mandira	noun	145	0.00%
-2340	kaliṅga	noun	145	0.00%
-2341	aśakta	adjective	145	0.00%
-2342	godhūma	noun	145	0.00%
-2343	ādara	noun	145	0.00%
-2344	śuśrūṣā	noun	145	0.00%
-2345	bherī	noun	145	0.00%
-2346	ghṛṣ	verb	145	0.00%
-2347	mastaka	noun	145	0.00%
-2348	āvartay	verb	145	0.00%
-2349	hiṅgu	noun	145	0.00%
-2350	chad	verb	145	0.00%
-2351	vaśya	adjective	144	0.00%
-2352	anātha	adjective	144	0.00%
-2353	pāla	noun	144	0.00%
-2354	kīdṛśa	adjective	144	0.00%
-2355	senāpati	noun	144	0.00%
-2356	rañjana	noun	144	0.00%
-2357	karañja	noun	144	0.00%
-2358	sārivā	noun	144	0.00%
-2359	prajval	verb	144	0.00%
-2360	carv	verb	143	0.00%
-2361	brahmahatyā	noun	143	0.00%
-2362	cirāt	indeclinable	143	0.00%
-2363	śaunaka	noun	143	0.00%
-2364	kaṇā	noun	143	0.00%
-2365	lakṣya	noun	143	0.00%
-2366	satī	noun	143	0.00%
-2367	āvarta	noun	143	0.00%
-2368	ṛddhi	noun	143	0.00%
-2369	kāṅkṣ	verb	143	0.00%
-2370	lag	verb	143	0.00%
-2371	apekṣ	verb	143	0.00%
-2372	vidārī	noun	143	0.00%
-2373	laya	noun	143	0.00%
-2374	vṛṣabha	noun	143	0.00%
-2375	saṃvāda	noun	142	0.00%
-2376	durāsada	adjective	142	0.00%
-2377	avaśiṣ	verb	142	0.00%
-2378	kalaśa	noun	142	0.00%
-2379	valla	noun	142	0.00%
-2380	mauktika	noun	142	0.00%
-2381	daṃśa	noun	142	0.00%
-2382	karṇikā	noun	142	0.00%
-2383	gal	verb	141	0.00%
-2384	sāntvay	verb	141	0.00%
-2385	phaṭ	indeclinable	141	0.00%
-2386	tithi	noun	141	0.00%
-2387	ariṣṭa	noun	141	0.00%
-2388	saṃtati	noun	141	0.00%
-2389	bhairava	adjective	141	0.00%
-2390	mātraka	noun	141	0.00%
-2391	śaṅkā	noun	141	0.00%
-2392	sainika	noun	141	0.00%
-2393	āḍhaka	noun	141	0.00%
-2394	samagra	adjective	141	0.00%
-2395	bodha	noun	141	0.00%
-2396	kekaya	noun	141	0.00%
-2397	prākāra	noun	141	0.00%
-2398	anyatara	pronoun	141	0.00%
-2399	kram	verb	141	0.00%
-2400	yadu	noun	141	0.00%
-2401	gā	verb	141	0.00%
-2402	vibhāvay	verb	140	0.00%
-2403	nivāsa	noun	140	0.00%
-2404	secay	verb	140	0.00%
-2405	aguru	noun	140	0.00%
-2406	vallabha	adjective	140	0.00%
-2407	vāsuki	noun	140	0.00%
-2408	kiṃca	indeclinable	140	0.00%
-2409	anurañj	verb	140	0.00%
-2410	pracoday	verb	140	0.00%
-2411	upala	noun	140	0.00%
-2412	ārjava	noun	140	0.00%
-2413	ativṛt	verb	140	0.00%
-2414	bhaikṣa	noun	140	0.00%
-2415	samānī	verb	140	0.00%
-2416	saktu	noun	139	0.00%
-2417	yathāśakti	indeclinable	139	0.00%
-2418	nikṛt	verb	139	0.00%
-2419	pīnasa	noun	139	0.00%
-2420	upacar	verb	139	0.00%
-2421	upajan	verb	139	0.00%
-2422	dāyāda	noun	139	0.00%
-2423	arjay	verb	139	0.00%
-2424	valmīka	noun	139	0.00%
-2425	kamp	verb	138	0.00%
-2426	prasah	verb	138	0.00%
-2427	nīca	adjective	138	0.00%
-2428	gulma	noun	138	0.00%
-2429	madra	noun	138	0.00%
-2430	āroha	noun	138	0.00%
-2431	mithas	indeclinable	138	0.00%
-2432	śarīrin	noun	138	0.00%
-2433	bhūnāga	noun	138	0.00%
-2434	vyūh	verb	138	0.00%
-2435	jaṅghā	noun	138	0.00%
-2436	sauvarcala	noun	138	0.00%
-2437	samam	indeclinable	138	0.00%
-2438	kāca	noun	138	0.00%
-2439	kuṭaja	noun	137	0.00%
-2440	jvālay	verb	137	0.00%
-2441	śrotriya	noun	137	0.00%
-2442	tritaya	noun	137	0.00%
-2443	vicūrṇay	verb	137	0.00%
-2444	vyāla	noun	137	0.00%
-2445	cāraṇa	noun	137	0.00%
-2446	ape	verb	137	0.00%
-2447	sambhāvay	verb	137	0.00%
-2448	nirbhid	verb	137	0.00%
-2449	snāpay	verb	137	0.00%
-2450	toda	noun	137	0.00%
-2451	kāṅkṣin	adjective	137	0.00%
-2452	daśana	noun	137	0.00%
-2453	ajara	adjective	137	0.00%
-2454	tvarita	adjective	137	0.00%
-2455	aṣṭamī	noun	137	0.00%
-2456	vināśin	adjective	136	0.00%
-2457	caura	noun	136	0.00%
-2458	nibandh	verb	136	0.00%
-2459	kubera	noun	136	0.00%
-2460	piṣṭī	noun	136	0.00%
-2461	jīmūta	noun	136	0.00%
-2462	rādheya	noun	136	0.00%
-2463	vṛttānta	noun	136	0.00%
-2464	anupaś	verb	136	0.00%
-2465	nimajj	verb	136	0.00%
-2466	sūnu	noun	136	0.00%
-2467	acira	adjective	136	0.00%
-2468	ambuda	noun	136	0.00%
-2469	viśvakarman	noun	136	0.00%
-2470	kṣan	verb	136	0.00%
-2471	abhyāgam	verb	136	0.00%
-2472	śarmiṣṭhā	noun	136	0.00%
-2473	pañcamūla	noun	135	0.00%
-2474	tarhi	indeclinable	135	0.00%
-2475	makara	noun	135	0.00%
-2476	yādṛśa	adjective	135	0.00%
-2477	prasvap	verb	135	0.00%
-2478	jāgṛ	verb	135	0.00%
-2479	upaci	verb	135	0.00%
-2480	piṣṭikā	noun	135	0.00%
-2481	prayāga	noun	135	0.00%
-2482	vijayā	noun	135	0.00%
-2483	pracakṣ	verb	135	0.00%
-2484	dvis	indeclinable	135	0.00%
-2485	abhitas	indeclinable	135	0.00%
-2486	avaśeṣa	noun	135	0.00%
-2487	dvār	noun	135	0.00%
-2488	vyakti	noun	134	0.00%
-2489	guṇay	verb	134	0.00%
-2490	variṣṭha	adjective	134	0.00%
-2491	puṣya	noun	134	0.00%
-2492	kukkuṭa	noun	134	0.00%
-2493	ceṣṭ	verb	134	0.00%
-2494	dhamani	noun	134	0.00%
-2495	siṃhanāda	noun	134	0.00%
-2496	devarṣi	noun	134	0.00%
-2497	yatheṣṭa	adjective	134	0.00%
-2498	kṛtārtha	adjective	134	0.00%
-2499	pravad	verb	134	0.00%
+ca	121472
+tad	100842
+na	38101
+eva	33165
+mad	29928
+iti	29647
+tu	29565
+yad	28108
+api	24645
+sarva	23915
+idam	22625
+tvad	21830
+bhū	20548
+tathā	17891
+as	16646
+tatas	16157
+vā	14235
+hi	14120
+mahā	13923
+ādi	11867
+rājan	11186
+gam	11152
+artha	10453
+tatra	10318
+iva	10117
+sa	9708
+atha	9448
+evam	9151
+rasa	8732
+yathā	8629
+deva	8528
+dharma	8472
+punar	8138
+ātman	8121
+ka	8058
+eka	7377
+dā	6940
+putra	6842
+loka	6773
+anya	6660
+para	6616
+karman	6504
+śru	6481
+su	6463
+tadā	6120
+vai	5821
+bala	5766
+brū	5679
+sva	5646
+kaścid	5563
+agni	5028
+rūpa	5024
+tri	4805
+phala	4802
+guṇa	4788
+sama	4592
+atra	4584
+saha	4331
+mahant	4299
+ah	4174
+pitṛ	4101
+ratha	4082
+nara	3965
+iha	3964
+indra	3863
+brahman	3831
+yoga	3774
+prāp	3742
+manas	3657
+puruṣa	3632
+jñā	3464
+ja	3441
+ṛṣi	3373
+bahu	3360
+yadi	3356
+smṛ	3312
+uttama	3273
+pūrva	3255
+vāta	3227
+kāma	3158
+tā	3147
+vat	3124
+śata	3100
+pitta	3060
+nāma	2988
+yā	2988
+śara	2925
+namas	2894
+dvi	2860
+man	2844
+pañcan	2755
+vana	2748
+anta	2737
+strī	2712
+yatra	2685
+mukha	2664
+sahasra	2641
+varṇa	2641
+pravac	2595
+katham	2582
+tejas	2536
+atas	2534
+kapha	2505
+āgam	2496
+go	2462
+jñāna	2439
+jala	2425
+mahātman	2423
+devī	2423
+madhya	2412
+bhāga	2406
+guru	2404
+duḥkha	2390
+stha	2389
+adas	2387
+buddhi	2383
+vacana	2369
+saptan	2367
+vākya	2362
+ati	2360
+labh	2339
+kārya	2336
+nṛpa	2320
+śabda	2310
+vidhi	2308
+pūjay	2307
+bhāva	2306
+pāda	2305
+sukha	2231
+mantra	2229
+viṣa	2225
+varṣa	2221
+ji	2208
+tasmāt	2204
+śarīra	2200
+gaṇa	2190
+rākṣasa	2184
+śreṣṭha	2182
+nityam	2181
+daśan	2177
+roga	2168
+bhavant	2166
+indriya	2147
+kathay	2125
+sadā	2124
+vipra	2116
+deha	2116
+tīrtha	2096
+kṣip	2087
+kṣīra	2055
+īśvara	2050
+aṃśa	2043
+sūta	2040
+ha	2029
+mṛ	2026
+adya	2021
+dina	2019
+kāraṇa	2017
+deśa	2014
+veda	2005
+vīrya	1994
+viṣṇu	1989
+bīja	1987
+taila	1981
+anna	1979
+car	1959
+jana	1958
+pati	1949
+cūrṇa	1943
+enad	1943
+bhagavant	1930
+prāṇa	1917
+yāvat	1908
+pattra	1903
+yajña	1893
+yuddha	1892
+gati	1890
+śiras	1890
+vad	1879
+vāyu	1860
+rāja	1860
+ghna	1850
+jvara	1849
+śakti	1844
+yadā	1837
+pada	1825
+svayam	1821
+karṇa	1815
+mūtra	1810
+nāman	1806
+hetu	1802
+madhura	1799
+raṇa	1795
+liṅga	1789
+darśana	1778
+bhūmi	1768
+yudhiṣṭhira	1766
+vāc	1763
+tattva	1754
+sthāna	1746
+puṣpa	1738
+vidhā	1736
+bandh	1721
+bhrātṛ	1719
+saṃśaya	1715
+tulya	1712
+vṛt	1699
+ghora	1698
+viśeṣa	1686
+heman	1686
+śudh	1683
+ṛṣabha	1667
+arh	1651
+kula	1640
+sidh	1625
+droṇa	1623
+aṣṭan	1621
+māṃsa	1612
+astra	1610
+apara	1604
+sura	1598
+puṇya	1597
+pūrvam	1593
+purā	1589
+hita	1588
+bharata	1583
+sneha	1575
+kriyā	1571
+mātṛ	1570
+māsa	1539
+sūrya	1535
+praviś	1532
+ṣaṣ	1530
+dah	1529
+vrata	1521
+rājya	1513
+diś	1508
+vacas	1490
+ityādi	1485
+śīta	1483
+dhana	1482
+nihan	1475
+alpa	1465
+samyak	1465
+śāstra	1460
+hasta	1456
+hṛ	1438
+jña	1434
+garbha	1432
+krodha	1432
+sma	1431
+pṛthivī	1426
+uttara	1423
+bheda	1422
+hara	1416
+yat	1414
+ādā	1409
+jīv	1406
+marday	1403
+aśva	1399
+pracch	1396
+śūla	1382
+snigdha	1376
+vega	1369
+pṛthak	1367
+dvaya	1366
+agra	1363
+puṭa	1362
+śoka	1350
+bhasman	1350
+sahita	1349
+kanyā	1343
+bhāvay	1339
+prajā	1333
+vijñā	1332
+vidyā	1330
+tāvat	1313
+kuru	1306
+prati	1304
+mṛtyu	1300
+traya	1291
+anvita	1285
+vahni	1277
+antara	1261
+parvata	1256
+prakṛti	1250
+viṣaya	1247
+rakta	1242
+tap	1235
+āśrama	1235
+ced	1229
+asura	1229
+kāray	1218
+pravṛt	1207
+yatas	1206
+tala	1205
+dhātu	1198
+bhakti	1196
+ratna	1192
+udaka	1191
+hṛdaya	1187
+gandhaka	1186
+śakra	1184
+śatru	1182
+bhāryā	1181
+sattama	1178
+vānara	1175
+bhartṛ	1172
+ardha	1170
+giri	1168
+mā	1166
+vadha	1164
+snā	1161
+dāha	1156
+arka	1148
+kṛṣṇa	1143
+āp	1142
+dhanus	1137
+vyadh	1136
+tāta	1135
+varjay	1134
+tikta	1132
+tāmra	1130
+candra	1129
+sādhu	1127
+jṛ	1124
+yuga	1124
+rāghava	1119
+vyādhi	1118
+adhas	1117
+rakṣ	1112
+kṣaṇa	1111
+sādhay	1108
+yama	1104
+janman	1104
+svarga	1101
+apaha	1099
+oṃ	1098
+saṃyuj	1095
+pramāṇa	1095
+nānā	1094
+tīkṣṇa	1090
+athavā	1083
+dham	1082
+dānava	1080
+upama	1078
+bhūyas	1073
+bhīma	1069
+gandharva	1061
+mṛga	1060
+payas	1055
+pura	1052
+adhyāya	1052
+nitya	1049
+vṛtti	1047
+māyā	1047
+avāp	1045
+sev	1045
+gaja	1041
+anila	1041
+sarpis	1036
+paścāt	1028
+upe	1020
+tvac	1019
+mṛdu	1019
+prasāda	1014
+śak	1011
+pakṣa	1010
+abhāva	1008
+pitāmaha	1004
+devatā	1002
+vṛkṣa	1002
+khalu	1001
+ūrdhvam	998
+cintay	997
+ram	994
+citta	994
+samara	992
+krama	990
+ātmaka	990
+śūra	988
+śeṣa	985
+tamas	985
+yoni	984
+vaśa	979
+nadī	975
+āhāra	973
+rakṣas	972
+toya	969
+padma	966
+upari	964
+udara	962
+āsthā	962
+sītā	960
+vidhāna	958
+abhra	956
+pāna	951
+ārta	948
+vaiśampāyana	940
+mūṣā	940
+maṇḍala	940
+antar	939
+vāra	936
+dhāray	934
+hṛd	931
+pāṇi	927
+pāka	927
+darśay	927
+moha	926
+ākāśa	926
+sant	926
+samanvita	924
+netra	924
+prathama	922
+vraṇa	910
+prīti	908
+nāśana	906
+śilā	903
+graha	900
+ākāra	898
+prī	897
+sambhava	893
+anyathā	892
+āśri	891
+tadvat	889
+bhīmasena	888
+kāsa	888
+svarṇa	888
+utthā	887
+mokṣa	886
+ābha	884
+vṛddhi	884
+rātri	876
+siṃha	875
+kaṣāya	874
+manda	871
+yaśas	867
+puṃs	866
+rāga	866
+daitya	865
+jīvita	864
+ga	863
+mūrdhan	862
+sthāpay	862
+ubh	860
+dru	860
+saṃyuta	858
+ahar	855
+pāpa	850
+kvacid	850
+haya	848
+śvāsa	843
+pīta	842
+prada	841
+kāya	840
+pradā	838
+svabhāva	838
+jap	836
+koṭi	834
+yantra	833
+dvādaśan	833
+vyāghra	831
+bhṛśam	831
+sāgara	830
+aṅgula	829
+karaṇa	828
+śaṃkara	827
+yojay	822
+dhīmant	822
+vinā	820
+dīp	817
+mahādeva	814
+mitra	813
+yaj	812
+muhur	811
+tila	811
+vikāra	810
+vraj	810
+sambhū	810
+ātmaja	808
+auṣadha	808
+janay	807
+sadṛśa	806
+citra	806
+snāna	805
+bhakṣay	803
+maheśvara	800
+saṃyoga	799
+vikrama	796
+sarvatas	796
+prayā	792
+asthi	791
+satya	791
+bhojana	790
+mākṣika	788
+rasāyana	786
+āsāday	785
+vyākhyā	783
+hṛṣ	782
+vaktra	778
+pūrvavat	777
+prayuj	775
+nivṛt	774
+kara	769
+ambu	765
+sārdham	764
+saṃjaya	763
+matsya	763
+vāsudeva	763
+prayatna	762
+manuṣya	762
+praśaṃs	761
+āvṛ	758
+mṛd	755
+śaila	754
+vidvas	753
+nimitta	753
+śūdra	751
+nārada	750
+adharma	750
+adhipa	749
+ācar	748
+niyam	748
+vasti	747
+jarā	742
+saṃdhi	741
+upāya	741
+āyā	737
+bandha	737
+paraspara	737
+dāruṇa	734
+sparśa	734
+gadā	733
+satatam	732
+bhāṣ	732
+bhiṣaj	729
+ācārya	726
+kalka	726
+mukhya	725
+śiṣya	724
+śīla	723
+viśva	719
+anyonya	719
+nārī	719
+jaya	718
+mahī	716
+dhanaṃjaya	713
+sveda	713
+ācāra	711
+vimuc	709
+samudra	708
+grahaṇa	708
+muh	706
+kaṇṭha	706
+gātra	700
+dhyā	699
+maṇi	697
+āśraya	697
+śakya	696
+prabhāva	696
+pīḍay	695
+prāh	694
+dṛṣṭi	692
+budh	690
+kṣipram	689
+dhvaja	689
+kāñcana	688
+bhī	686
+kalā	686
+yatna	685
+rātra	684
+kṣetra	682
+triphalā	681
+kṣi	681
+i	677
+ubhaya	674
+ṭaṅkaṇa	673
+utpad	670
+lip	670
+viśeṣataḥ	669
+cetas	669
+kathā	668
+śaṃs	663
+pṛṣṭha	663
+vṛdh	662
+mahābhāga	662
+vibhu	659
+śopha	659
+kila	658
+jāray	657
+śuddhi	657
+kṣaudra	657
+jit	656
+pātay	650
+bhaj	649
+āśu	649
+dhṛtarāṣṭra	647
+prasad	647
+vaṃśa	645
+kvātha	644
+jāti	644
+āviś	643
+praṇam	641
+nu	641
+abhidhā	640
+kva	640
+pūjā	637
+sadyas	636
+maraṇa	636
+stu	627
+manu	624
+mada	624
+dhūma	624
+āsya	624
+saṃnibha	623
+navan	621
+harṣa	621
+kutas	620
+śanais	619
+kramāt	616
+ojas	616
+vyāsa	615
+hu	615
+prayoga	614
+ruj	612
+bali	611
+senā	611
+udaya	610
+vadh	609
+locana	609
+prājña	608
+gaṅgā	607
+parvan	605
+vāri	605
+utsṛj	603
+han	603
+aneka	602
+ākhyā	600
+dhṛ	599
+pṛ	598
+sarvaśas	597
+sarpa	597
+dhānya	595
+āhṛ	595
+tṛṣṇā	595
+āruh	595
+upasthā	592
+duṣ	592
+prajāpati	592
+vivarjay	591
+muhūrta	591
+svap	591
+abhraka	590
+arcay	590
+puṃgava	590
+keśava	588
+dadhi	588
+vijñāna	585
+itara	585
+vasiṣṭha	584
+dviguṇa	584
+prayam	583
+dhruvam	583
+dāra	582
+samprāp	582
+balin	580
+bhuja	579
+ambhas	578
+ājya	577
+keśa	577
+candana	577
+kīrtay	576
+kānta	576
+sakala	576
+danta	574
+caturtha	573
+bāla	573
+pippalī	572
+bhāṇḍa	571
+pāvaka	570
+mūrti	570
+bahis	570
+śānti	569
+viś	569
+saṃkāśa	568
+saṃskāra	566
+khyā	566
+sthira	566
+druma	565
+śuṣka	565
+anuttama	563
+tena	561
+svapna	561
+kadācid	561
+vah	560
+kevala	559
+tuṣ	559
+sākṣāt	558
+saṃgrāma	556
+vistara	556
+mahāpurāṇa	555
+niveday	555
+āyudha	554
+path	554
+anyatra	552
+samantataḥ	551
+ṣoḍaśan	550
+nipat	550
+grāma	550
+asant	547
+ānī	547
+śrama	547
+vyakta	546
+nikṣip	545
+nāśa	543
+svara	543
+prabhu	542
+śarkarā	542
+kumāra	542
+yava	542
+kṛtsna	541
+śruti	541
+samaya	539
+ogha	539
+nyas	538
+guḍa	538
+yudh	538
+kopa	537
+jval	535
+āgama	534
+udbhava	533
+divasa	531
+jāla	530
+mānasa	528
+varga	528
+hanumant	527
+niścaya	526
+patnī	523
+samāgam	523
+devadeva	523
+samāhita	522
+anala	522
+anīka	521
+kaunteya	521
+ṛtu	520
+vināśa	520
+parākrama	518
+janārdana	518
+uta	518
+ravi	517
+ānana	516
+nud	515
+param	515
+jantu	515
+durlabha	514
+niyama	513
+smṛti	513
+kha	510
+kanda	506
+ācakṣ	505
+arśas	505
+sarvatra	505
+chāyā	504
+gamana	504
+daiva	503
+vapus	503
+akṣi	502
+parameśvara	502
+śobhana	501
+nagara	501
+narmadā	499
+mātrā	499
+vidhivat	499
+upapad	498
+viśru	498
+trividha	495
+apsaras	494
+lobha	493
+prakīrtay	493
+visṛj	491
+pratigrah	491
+pratyaya	491
+kalpay	491
+nṛpati	490
+madhye	490
+rudhira	490
+pūray	488
+sthiti	487
+rati	487
+ari	485
+bāhya	485
+jyotis	484
+vadana	484
+tantra	483
+śārdūla	483
+māna	483
+jāraṇa	483
+avasthā	482
+yojana	482
+pravṛtti	481
+kṛṣṇā	481
+viśiṣ	480
+kaṭuka	480
+jihvā	480
+bhṛ	480
+bāndhava	479
+sūtra	479
+ekaika	479
+nāda	478
+kanaka	478
+bhañj	478
+pakṣin	478
+parāyaṇa	478
+samīpa	478
+udāhṛ	477
+saṃyuga	477
+asra	477
+parityaj	476
+dyuti	476
+medas	474
+saṃsthā	474
+dvijottama	473
+cūrṇay	472
+kuśala	471
+paṭh	469
+śīghram	469
+viśudh	468
+kumbha	468
+citraka	468
+kartṛ	468
+bandhana	467
+śuddha	467
+utpatti	467
+dugdha	466
+kaścana	465
+vṛṣya	465
+sarga	465
+mantrin	465
+nibha	464
+anu	464
+vardhana	464
+nidhā	463
+rūpin	462
+haṃsa	461
+kṛmi	460
+ābharaṇa	460
+sahasraśas	460
+pālay	460
+prātar	459
+guñjā	459
+udyam	458
+bhūṣaṇa	457
+anugam	457
+amita	456
+lavaṇa	456
+śāpa	455
+sirā	455
+pāśa	454
+dāpay	454
+sthūla	454
+dhārtarāṣṭra	452
+lepa	451
+ātura	448
+vinaś	448
+prakṛ	448
+īdṛśa	448
+ghaṭa	448
+nidrā	447
+ātapa	447
+lepay	446
+vibhāga	446
+prapad	446
+saṃkrudh	446
+kuntī	444
+aiśvarya	444
+lābha	443
+vedanā	443
+samāna	442
+āhava	441
+srotas	441
+kaurava	441
+kīrti	440
+ākṛti	440
+bhāra	440
+vijaya	440
+mūrchā	439
+sutā	439
+atī	439
+ananta	439
+sampūjay	438
+prakāra	438
+sabhā	438
+īkṣaṇa	437
+akhila	436
+marman	436
+sātyaki	432
+bandhu	432
+icchā	431
+ārabh	430
+rāṣṭra	430
+same	429
+madya	428
+kathaṃcana	428
+laṅkā	428
+māṣa	428
+yathāvat	427
+vikṛ	426
+pāñcāla	426
+nātha	426
+saṃhitā	426
+āyam	426
+saṃgha	426
+abhigam	425
+kṣatra	425
+aśana	424
+avyaya	422
+saṃvatsara	422
+ciram	420
+mālā	417
+puṭ	416
+purī	415
+śauca	414
+saṃjan	414
+ripu	413
+coday	412
+uras	412
+vṛ	411
+pratiṣṭhā	411
+nibudh	409
+varuṇa	408
+saṃsāra	408
+pū	408
+arday	408
+dvividha	408
+āḍhya	408
+itas	407
+yasmāt	407
+saptadhā	407
+adhigam	406
+prāñc	405
+gagana	405
+yukti	405
+sarvadā	405
+saras	405
+nakṣatra	405
+nūnam	404
+bṛhaspati	404
+upalabh	404
+prakāśa	404
+tūrṇam	402
+nāḍī	401
+bhṛgu	401
+bhūṣay	401
+tṛ	401
+bhā	401
+vatsa	400
+vihā	400
+gada	400
+lakṣay	400
+ūru	400
+ṛte	397
+stambha	397
+vāray	397
+kāṣṭha	397
+iṣvāsa	396
+akṣaya	396
+vyavasthā	396
+vyoman	395
+vaidehī	395
+dhā	395
+alam	395
+dvaṃdva	394
+ārti	394
+duḥkhita	394
+kaṇḍū	393
+avyakta	392
+bhavana	392
+purīṣa	391
+samācar	391
+bindu	391
+niśā	391
+sāhasra	391
+ahaṃkāra	391
+niṣka	390
+sāyaka	390
+svana	388
+adhī	388
+vinikṣip	387
+śambhu	387
+idānīm	387
+svāhā	386
+lih	386
+bheṣaja	385
+carman	385
+gras	385
+mukti	385
+latā	384
+khaḍga	384
+vṛṣṭi	384
+parivāray	384
+śodhay	383
+śāsana	383
+purāṇa	383
+madhuka	383
+indu	383
+bhram	381
+śūnya	381
+nirmā	381
+krameṇa	381
+dvijāti	380
+a	380
+śoṣa	379
+abhivāday	379
+tīra	378
+ariṃdama	378
+tridhā	378
+parikīrtay	377
+avekṣ	376
+martya	376
+śreyas	375
+yathāvidhi	375
+mahīpati	375
+kāñjika	374
+prativac	374
+yodha	374
+paraṃtapa	373
+viṃśati	373
+viḍa	372
+abhihan	372
+māhātmya	371
+upagam	371
+chidra	370
+dhī	370
+prekṣ	370
+duhitṛ	369
+lakṣmī	369
+kali	368
+sattva	368
+kup	368
+nanu	368
+sarit	367
+amātya	367
+grāsa	367
+dharmarāja	367
+anugraha	366
+śrotra	366
+prāṇin	365
+upayuj	365
+daivata	364
+kleśa	364
+narādhipa	364
+abhidru	364
+adhipati	363
+tṛṇa	363
+bhṛtya	363
+alaṃkṛ	362
+krūra	362
+ālaya	362
+mohay	362
+virudh	361
+pannaga	361
+vaidya	360
+aṅguli	360
+viparīta	360
+vikalpa	360
+prabhava	360
+ṣaṣṭha	360
+kratu	359
+oṣadhi	359
+vicar	359
+homa	359
+māray	358
+kamala	358
+viji	358
+samāsāday	358
+cintā	358
+roman	357
+yaśasvin	357
+abhyāsa	357
+prahas	357
+vināśana	357
+hastin	356
+skandha	355
+deveśa	355
+paścima	354
+anantaram	354
+svāmin	354
+samartha	354
+vand	354
+rahita	354
+cāru	352
+vidura	352
+vacā	352
+vyasana	352
+saṅga	352
+kuśa	351
+cira	351
+viśvāmitra	351
+prahṛṣ	351
+chardi	350
+viparyaya	350
+rujā	350
+ślakṣṇa	349
+ākula	349
+vikhyā	349
+śākhā	349
+āpad	348
+vājin	348
+antardhā	348
+meha	347
+marica	347
+yāc	347
+raśmi	346
+sārathi	345
+apatya	345
+dhṛṣṭadyumna	345
+cyu	344
+nija	343
+lakṣa	343
+dama	343
+aṣṭama	343
+agratas	343
+kuṇḍala	342
+prasidh	342
+antarikṣa	342
+īray	342
+upaviś	341
+sveday	340
+uraga	340
+stana	339
+drupada	339
+āhan	339
+jñāti	339
+arha	339
+tāpya	339
+veṣṭay	338
+nirdiś	337
+japa	336
+tvar	336
+vigraha	336
+caturvidha	336
+sitā	335
+raudra	334
+meru	334
+svarūpa	334
+vibhaj	334
+khara	334
+āyatana	334
+dūta	333
+anṛta	333
+sāman	333
+sampuṭa	332
+śulba	332
+guṭikā	332
+śloka	331
+yauvana	331
+prabhṛti	331
+sakhī	331
+vedha	330
+śama	330
+tapasvin	329
+tāḍay	329
+saptama	329
+mata	329
+āhvaya	328
+aho	328
+sakhi	328
+tarpay	328
+surā	328
+sarvathā	328
+sru	327
+tṛp	327
+aśvamedha	327
+madana	327
+veśman	327
+vāhana	326
+nāśay	326
+dvidhā	326
+buddhimant	325
+śoṣay	325
+adhiṣṭhā	325
+saṃdeha	325
+marut	324
+pācay	323
+dakṣa	323
+ayuta	323
+atikram	323
+adhama	323
+bhojay	323
+saṃdhā	323
+āma	323
+aśru	323
+sahāya	322
+dhāraṇa	322
+kṛpa	322
+saṃgraha	321
+tyāga	321
+nad	321
+durbala	321
+atithi	321
+namaskṛ	321
+niṣev	320
+vasā	320
+viśārada	320
+paryanta	320
+ayas	320
+kadācana	320
+triguṇa	320
+abhiṣic	319
+mithyā	318
+puṣṭi	318
+himavant	318
+umā	317
+niveśay	317
+vistṛ	316
+ādhā	316
+brahmacarya	315
+atyartham	314
+nimba	314
+upadeśa	312
+ārādhay	311
+dhātrī	311
+nāsā	311
+prāk	311
+tādṛśa	310
+khalva	309
+bhrama	309
+prajan	309
+udi	309
+saṃnidhi	309
+kuṣṭha	309
+saṃkhya	308
+preṣay	308
+saṃnipāta	307
+sakṛt	307
+suvrata	306
+cal	306
+saṃgama	306
+viṣ	306
+evaṃvidha	306
+vimarday	305
+iṣu	305
+pratyakṣa	305
+granthi	304
+tāvant	304
+samāyuj	304
+budha	304
+ghana	303
+āhvā	303
+dīpa	303
+dveṣa	301
+kānti	301
+nirudh	301
+kṣudh	301
+dhārmika	301
+prasthā	301
+adhvan	301
+bahuśas	300
+mūrchay	300
+śuka	300
+añjali	300
+puraskṛ	300
+krīḍ	299
+abhibhū	299
+tanaya	299
+rājarṣi	299
+bhārata	299
+dūra	298
+bahudhā	298
+bhāj	298
+draupadī	298
+hṛdya	297
+niśāmay	297
+yayāti	297
+yoṣit	297
+mil	297
+pre	297
+catuṣṭaya	296
+virāṭa	296
+andha	296
+vivāha	296
+prastha	296
+tāpa	295
+śayyā	295
+samantāt	295
+ghoṣa	295
+acala	295
+saṃtap	294
+ātreya	294
+nirgam	294
+aruci	294
+agrya	294
+gir	294
+saṃskṛ	293
+saṃkalpa	293
+viśāla	293
+majjan	293
+amitra	293
+gṛdhra	293
+niści	293
+prayojay	292
+śvan	292
+caturdaśan	292
+arṇava	292
+samādhi	291
+sarasvatī	291
+bāṣpa	291
+abhimukha	291
+rāśi	291
+takra	291
+atīva	291
+rasendra	291
+prakṣip	290
+dhārin	290
+brāhma	290
+guda	290
+rajanī	289
+nasya	289
+śāli	289
+pāyay	288
+upāgam	288
+sṛṣṭi	288
+narendra	287
+kuñjara	287
+vāda	287
+tapodhana	287
+śubh	286
+nakula	286
+abda	286
+śataśas	286
+saṃtāpa	286
+sahasā	286
+prāñjali	286
+śamana	285
+upavāsa	285
+mustā	285
+prārthay	285
+avayava	285
+samman	284
+śap	283
+atho	283
+jānu	283
+utpāday	283
+aṅgiras	283
+roṣa	283
+ṣaṣṭi	283
+śalya	282
+ittham	282
+pradakṣiṇa	281
+vyāp	281
+ṛc	281
+nirji	281
+atyanta	281
+asi	281
+khād	280
+hṛt	280
+āpat	280
+apahṛ	279
+druti	279
+gautama	279
+caturguṇa	279
+plīhan	279
+vibhūṣay	278
+miśra	278
+anujñā	278
+vīkṣ	278
+aśman	278
+grahaṇī	278
+likh	277
+drāvay	277
+brahmacārin	277
+anuga	277
+e	276
+pradāna	276
+tiryañc	276
+nivāray	276
+taṭa	276
+gīta	275
+prāya	275
+smita	275
+āśaya	275
+ṣoḍaśa	274
+sukhin	274
+āvantya	273
+triṃśat	273
+cara	272
+durātman	272
+saṃgam	271
+nyāya	271
+kṣama	271
+havis	271
+drāva	271
+bhājana	270
+saumitri	270
+manaḥśilā	270
+preta	269
+arcana	269
+stanya	269
+manyu	269
+dhṛti	268
+aṇḍa	268
+kṣam	268
+śikhaṇḍin	267
+abhyaṅga	267
+sarṣapa	267
+rañjay	266
+rakṣā	266
+kākutstha	266
+dhanvantari	266
+daśaratha	265
+pratāpavant	265
+nirīkṣ	265
+sañj	265
+dāḍima	265
+darśin	265
+nala	264
+amala	264
+pragrah	264
+anubhū	264
+divākara	264
+ikṣu	264
+tuṣa	264
+samīkṣ	264
+rūpya	264
+tridaśa	263
+prasaṅga	263
+mudrā	263
+vartman	262
+parigraha	262
+yathākramam	262
+vigam	262
+ucita	261
+aśeṣa	261
+sthālī	261
+vyoṣa	260
+svarasa	260
+niyuj	260
+mās	259
+apriya	259
+śruta	259
+vālin	258
+bhṛt	258
+tanu	258
+pratijñā	258
+kūrma	257
+aṅganā	257
+śarad	257
+svastha	257
+tumula	257
+vyavahāra	256
+ākram	256
+manuja	256
+vihṛ	255
+mṛttikā	255
+pāṣāṇa	255
+skānda	255
+guhā	254
+kārmuka	254
+nipātay	254
+śikhā	254
+bhṛśa	252
+utpat	252
+peṣay	252
+upacāra	251
+rasaka	251
+hārin	251
+kadala	251
+lalāṭa	251
+vasudhā	251
+yathānyāyam	251
+kāṇḍa	251
+āśin	251
+parīkṣ	251
+vṛkodara	250
+yātrā	250
+kānana	250
+daṃṣṭra	250
+muṣṭi	250
+nigraha	250
+kumārī	250
+etāvant	249
+nidhi	249
+krimi	249
+pādapa	249
+nivṛtti	249
+jātu	249
+śaśin	249
+dūṣay	249
+anuṣṭhā	249
+jīva	248
+svadharma	248
+ākhya	248
+drauṇi	248
+ārambha	248
+balā	248
+śakṛt	248
+kalpa	248
+sukham	247
+pramuc	247
+vilap	247
+jaṅgama	247
+palāśa	247
+chattra	247
+darpa	247
+vedhay	247
+vistāra	247
+asādhya	246
+tārā	246
+janamejaya	246
+kasmāt	246
+pratī	246
+samāgama	246
+saṃghāta	246
+gharma	246
+saṃjñita	245
+taruṇa	245
+agastya	245
+pārvatī	245
+sampṛ	245
+prāyas	244
+vaikrānta	244
+drākṣā	244
+tāpasa	244
+vinyas	244
+tṛṣ	243
+śrī	243
+prāpti	243
+hutāśana	243
+bhrū	243
+niś	243
+śobhay	243
+prayojana	242
+itihāsa	242
+vicakṣaṇa	242
+sampad	242
+gāyatrī	242
+bhūyiṣṭha	242
+kapāla	242
+pāta	242
+candramas	242
+upahan	242
+gola	242
+kauravya	241
+varāha	241
+haridrā	241
+bhraṃś	240
+diṣṭi	240
+ekāśīti	240
+mudga	239
+gāmin	239
+dhūpa	239
+tris	239
+vyāhṛ	238
+upadrava	238
+aṅka	238
+lohita	238
+bhakṣaṇa	237
+adhyayana	237
+ālokay	237
+pṛṣṭhatas	237
+jaṭā	237
+phalguna	237
+dhātṛ	237
+vinī	236
+dharaṇī	236
+vṛtra	236
+anitya	236
+viśeṣeṇa	236
+mud	236
+abhidhāna	236
+paṇḍita	236
+garuḍa	236
+vighna	236
+patha	236
+samutthā	235
+majj	235
+aṅguṣṭha	235
+upakram	235
+kavi	235
+bharadvāja	235
+āropay	235
+snuhī	235
+mahiṣī	235
+svādhyāya	234
+yuvan	234
+pipāsā	233
+sah	233
+punarnavā	233
+gajapuṭa	233
+grantha	233
+lāghava	232
+śakuni	232
+satkṛ	232
+kāka	231
+prāsāda	231
+nigrah	231
+avaśyam	231
+hiṃsā	231
+pātaka	231
+vartay	231
+plu	231
+revākhaṇḍa	231
+kukṣi	230
+īṣat	230
+sāvitrī	230
+saṃsṛj	230
+avatṛ	230
+arghya	230
+medinī	229
+prasū	229
+kaśyapa	229
+yāvant	229
+sāray	229
+cheda	228
+āgneya	228
+anuvṛt	228
+īpsay	227
+līlā	227
+prabhū	227
+bādh	227
+saṃyam	226
+saṃgrah	226
+adhunā	226
+yūthapa	226
+maithilī	226
+govinda	225
+bhānu	225
+bhuvana	225
+śarāva	225
+krāmaṇa	225
+darada	224
+bhīru	224
+ceṣṭā	224
+purohita	224
+kāṃsya	224
+māraṇa	224
+drava	223
+sevā	223
+saubhāgya	223
+upayoga	223
+yukta	222
+dvijasattama	222
+krīḍā	222
+dam	222
+paṭa	221
+kulattha	221
+kāsīsa	221
+saṃhṛ	220
+vāhinī	220
+yugapad	220
+paryāya	220
+samāśri	220
+unmāda	220
+piśāca	220
+eraṇḍa	220
+naga	220
+śaṅkha	220
+praṇaś	219
+dīkṣā	219
+ṛtvij	219
+adhikāra	219
+kumbhakarṇa	219
+puruṣottama	219
+sāmya	219
+praṇava	218
+mahīy	218
+anumāna	218
+samākhyā	218
+samādhā	218
+grīvā	218
+varṇay	218
+dvipa	218
+abhiprāya	218
+madhusūdana	218
+avaman	218
+bhakta	217
+vyāyāma	217
+apāna	217
+vivṛdh	217
+vṛtta	217
+chandas	217
+rākṣasī	217
+elā	217
+daṃś	217
+saṃcaya	217
+dyūta	216
+manohara	216
+has	216
+vedhin	216
+maithuna	216
+purogama	215
+praśam	215
+guṇavant	215
+anādi	215
+veṣa	215
+antaḥpura	214
+eṣin	214
+java	214
+cetanā	214
+rakṣaṇa	214
+āgamana	214
+vikram	213
+prakāś	213
+svayambhu	213
+saṃsarga	213
+anartha	213
+tāla	212
+retas	212
+pariṣvaj	212
+velā	212
+māriṣa	212
+anuyā	211
+samādā	211
+janaka	211
+janapada	211
+udīray	211
+purastāt	211
+carita	211
+ūṣman	211
+ādhmāna	211
+sāmānya	211
+śrāvay	210
+yam	210
+pāṇḍura	210
+pācana	210
+devayānī	210
+bhaṅga	210
+kuṅkuma	209
+kṣata	209
+niryā	209
+prameha	209
+īkṣ	209
+hiṅgula	209
+puṣ	209
+parivṛ	209
+dāsa	209
+samā	209
+hrīṃ	209
+vismi	208
+vardhay	208
+tejasvin	208
+anviṣ	208
+abhiṣeka	207
+tāvaka	207
+praśna	207
+niveśana	207
+lokapāla	207
+oṣṭha	207
+gṛhastha	207
+catuḥṣaṣṭi	207
+pūjana	207
+pralaya	207
+arocaka	207
+paramātman	207
+vyathā	207
+skanda	207
+dolāyantra	207
+ekatra	207
+sanatkumāra	207
+aśvin	206
+vṛthā	206
+abhibhāṣ	206
+nandin	206
+deveśī	206
+upavas	206
+dhanya	206
+prasāday	206
+pāṭhā	205
+prāṇāyāma	205
+kāmay	205
+bhūdhara	205
+śvayathu	205
+niyoga	204
+trā	204
+anyatama	204
+mantray	204
+saṃkula	204
+anupāna	204
+kailāsa	204
+ādhāra	204
+viṣāda	204
+mahiṣa	204
+gocara	203
+mahīpāla	203
+svasti	203
+utsah	203
+nānāvidha	203
+vasanta	203
+saṃmā	203
+udvij	202
+divā	202
+muktā	202
+udadhi	202
+kṛpaṇa	202
+śuṇṭhī	202
+atīsāra	202
+śiśu	202
+camū	202
+saṃhāra	202
+niyojay	202
+valī	202
+sraj	201
+abhyas	201
+cit	201
+parī	201
+pariṇāma	201
+vinirmuc	201
+nirmuc	201
+utsāha	201
+kūpa	200
+rasarāja	200
+kaccit	200
+pradhāna	200
+pradāpay	200
+vyūha	200
+arpay	199
+saṃkṣepa	199
+samāvṛ	199
+matimant	199
+kąp	199
+ahi	199
+ṛṇa	199
+taru	198
+dantī	198
+samudbhava	198
+anvaya	198
+daśama	198
+nāla	197
+śatāvarī	197
+asta	197
+saṃśri	197
+gotra	197
+ātmavant	197
+gairika	197
+tanmātra	197
+nyāsa	196
+hrada	196
+śivā	196
+saṃvid	196
+pradeśa	195
+samṛdh	195
+chāday	195
+abhimanyu	195
+samutpad	195
+viśeṣāt	194
+adṛṣṭa	194
+āyasa	194
+kilbiṣa	194
+aṣṭādaśan	194
+taṇḍula	194
+dṛḍham	194
+adri	194
+vī	194
+ānāha	194
+kiṭṭa	194
+gokarṇa	193
+śulva	193
+sūtaputra	193
+pātana	193
+anugrah	193
+samāhṛ	193
+samāviś	193
+vicāraṇā	193
+putraka	193
+lākṣā	193
+samāp	193
+utsava	193
+pravāla	193
+medhā	192
+khadira	192
+kaikeyī	192
+saṃhṛṣ	192
+parigha	192
+gāruḍa	192
+śram	192
+unnam	192
+tras	192
+puṣpita	192
+acyuta	191
+pīḍā	191
+rava	191
+hā	191
+paripracch	191
+gala	190
+āvaraṇa	190
+aparādha	190
+prakalpay	190
+vartī	190
+kovida	190
+tulā	190
+upayā	190
+uccais	189
+lī	189
+raktapitta	189
+vaiḍūrya	189
+prahi	189
+abhighāta	189
+alaṃkāra	188
+uṣṭra	188
+loman	188
+abhiyā	188
+kiṃnara	188
+toṣay	188
+mātuluṅga	188
+vicintay	187
+bhāminī	187
+pavitra	187
+bṛhatī	187
+apekṣā	187
+sphur	187
+ekādaśan	187
+ajina	187
+asakṛt	187
+rohiṇī	187
+tatpara	187
+sṛñjaya	187
+putrī	187
+ahorātra	187
+añj	187
+unmad	187
+udyāna	186
+bhalla	186
+ayodhyā	186
+daśagrīva	186
+saciva	186
+abhidhāv	186
+t	186
+kevalam	186
+mūlya	185
+tṛpti	185
+tāmasa	185
+dayā	185
+pallava	185
+tuṣṭi	185
+vidradhi	185
+anubandha	185
+vatsara	185
+caryā	185
+andhamūṣā	185
+prahṛ	185
+svedana	185
+ujjvala	184
+nirdah	184
+nigad	184
+prāyaścitta	184
+mātaṃga	183
+kūla	183
+atri	183
+puraṃdara	183
+maya	183
+prathamam	183
+revā	183
+atisāra	183
+ākhyāna	183
+upekṣ	182
+harītakī	182
+rogin	182
+jvālā	182
+nṛśaṃsa	182
+nārāca	182
+vadhū	182
+anindita	182
+amṛtā	182
+praveśay	181
+upādā	181
+āmantray	181
+tripura	181
+kūṭa	181
+sudhā	181
+ghaṭotkaca	181
+yamunā	181
+karpūra	181
+mādrī	181
+āsad	181
+tuttha	180
+kaṭi	180
+saubhadra	180
+niram	180
+no	180
+guḍūcī	180
+nau	179
+pravṛdh	179
+pathyā	179
+vinaya	179
+abhayā	179
+abhinand	179
+hāni	179
+jayadratha	179
+snāyu	179
+saṃrabh	178
+saṃśraya	178
+gaurī	178
+bhāvanā	178
+dvāpara	178
+bho	178
+adhiṣṭhāna	178
+cāra	178
+prakṣālay	177
+uddeśa	177
+tretā	177
+viśuddhi	177
+śamay	177
+tvarā	177
+pradru	177
+abhivṛt	176
+sudh	176
+praṇipat	176
+karśay	176
+anuprāp	176
+upaśobhay	176
+adhikṛ	176
+darbha	175
+śilājatu	175
+khaga	175
+śāṃtanava	175
+vartin	175
+mātula	175
+vatsala	175
+dhairya	175
+bhūti	175
+puras	174
+lodhra	174
+jyā	174
+lauha	174
+phena	174
+pārthiva	174
+caturdaśī	173
+piṣṭi	173
+caṇḍa	173
+saṃmarday	173
+divaukas	173
+yodhay	173
+prādurbhū	173
+saṃkṣaya	173
+āśīviṣa	173
+ākṛṣ	173
+ekaviṃśati	173
+hantṛ	173
+sthala	173
+vinad	173
+kausalyā	172
+adhastāt	172
+cikitsā	172
+vicāray	172
+saṃsthāpay	172
+niṣkram	172
+nirguṇa	172
+samākula	172
+nirghoṣa	172
+avakṛ	172
+nīti	172
+saṃsthāna	172
+prasañj	172
+varṣā	172
+klama	172
+musala	172
+dharā	172
+atandrita	172
+devarāja	172
+avadhi	172
+vāhay	172
+yajus	171
+yūṣa	171
+hiṃs	171
+saṃtyaj	171
+abhyañj	171
+vyapoh	171
+vaha	171
+prakāśay	171
+tathāvidha	171
+visarjay	170
+grīṣma	170
+nisvana	170
+śatakratu	170
+vasuṃdharā	170
+nīla	170
+parāśara	170
+miśray	170
+aṃśaka	170
+kṛṣi	169
+kruś	169
+aśmarī	169
+dhvani	169
+kathaṃcid	169
+puṅkha	169
+vairāgya	169
+baka	169
+suyodhana	169
+picchila	169
+pārṣata	169
+kīṭa	168
+kṛpā	168
+niṣad	168
+patākā	168
+parimāṇa	168
+vivṛ	168
+parihṛ	168
+pañcāśat	168
+aṇu	168
+pravīra	168
+tandrā	167
+varay	167
+vitan	167
+viṣad	167
+ucchri	167
+samprekṣ	167
+guggulu	167
+pratyekam	167
+kesara	167
+oṃkāra	167
+saṃcintay	167
+yathākāma	167
+aprameya	167
+sattra	167
+niścitam	167
+vam	166
+vaṭa	166
+rekhā	166
+avadhya	166
+dayita	166
+adṛśya	166
+gomukha	165
+nāśin	165
+saṃkara	165
+vinihan	165
+śraddhā	165
+brahmarṣi	165
+varman	165
+śatrughna	165
+ahiṃsā	165
+paṅka	164
+medhya	164
+gavya	164
+atula	164
+sū	164
+sāmarthya	164
+vihāra	164
+nirodha	164
+sakāśa	164
+dhenu	164
+ambuja	164
+yadṛcchā	164
+ketu	164
+suparṇa	164
+gad	163
+anulepana	163
+timira	163
+dāsī	163
+sāṃpratam	163
+sevana	163
+parivarjay	163
+ādāna	163
+vyaya	163
+samprati	163
+devadāru	163
+samāsa	163
+vibandha	162
+pāyasa	162
+praveśa	162
+dhāv	162
+tālu	162
+prakopa	162
+dhāman	162
+vāhin	162
+sambhrama	162
+aṅkura	162
+apāmārga	162
+rukma	162
+āplu	162
+sampravac	162
+tāray	161
+niviś	161
+saṃhan	161
+dundubhi	161
+bhujaga	161
+upaspṛś	161
+manorama	161
+bhojya	161
+āśā	161
+virodha	161
+padāti	161
+kapota	161
+cikitsita	161
+gāṇḍīva	160
+pāraga	160
+niḥsṛ	160
+parigrah	160
+śaṅk	160
+maryādā	160
+sātvata	160
+pratyeka	160
+āmiṣa	160
+nirvāṇa	159
+jananī	159
+abhijñā	159
+gālay	159
+kanyakā	159
+pratimā	159
+āgāra	158
+sāṃkhya	158
+sphuṭa	158
+vālukā	158
+kṛcchra	158
+abhipūjay	158
+hāra	158
+varā	158
+dāyin	157
+trivṛt	157
+sambandhin	157
+bhaga	157
+āśvāsay	157
+āśaṃs	157
+sindūra	157
+laṅghana	157
+sadana	157
+apratima	156
+mañjiṣṭhā	156
+tantu	156
+ājñāpay	156
+pṛthivīpati	156
+śmaśāna	156
+uśīra	156
+pramadā	156
+prath	156
+praṇī	156
+vindhya	155
+jalada	155
+ṛch	155
+sukṛta	155
+ghātin	155
+manoratha	155
+vidru	155
+vyavasā	155
+setu	155
+vivāda	155
+rahas	155
+pravartay	155
+hikkā	155
+antarātman	155
+aśuci	155
+kāmam	154
+abhyadhika	154
+vaṇij	154
+kirīṭin	154
+dharmya	154
+kramaśas	154
+ācchāday	154
+akṣara	154
+ghātay	154
+āsava	154
+arbuda	154
+pratipāday	154
+bhaginī	153
+vidyādhara	153
+citrasena	153
+prahāra	153
+abhiman	153
+kāmyā	153
+ambā	153
+saṃdhāna	153
+nidāna	153
+ādau	153
+smi	153
+udbhū	152
+ākara	152
+nirguṇḍī	152
+āji	152
+hṛṣīkeśa	152
+prakup	152
+pratigraha	152
+devadālī	151
+aśvattha	151
+yathāsukham	151
+kṛṣ	151
+indhana	151
+aṃśu	151
+śarva	151
+acetana	151
+grāha	151
+vanaspati	151
+viśvāsa	151
+tomara	151
+gāḍham	151
+nāsikā	151
+kṛtavarman	151
+bhikṣā	150
+kleda	150
+paṭola	150
+yavāgū	150
+apramatta	149
+cullī	149
+duṣkṛta	149
+avagam	149
+lajjā	149
+śyāmā	149
+anuśās	149
+upapāday	149
+savitṛ	148
+avalokay	148
+adbhuta	148
+evamādi	148
+kākamācī	148
+bhāvin	148
+pramāda	148
+sāhasa	148
+parivṛt	148
+haṭha	148
+tadanu	148
+pratiṣedha	148
+prapaś	148
+vipācay	148
+haritāla	148
+prāsa	148
+vīṇā	147
+uparasa	147
+arc	147
+durjaya	147
+utkarṣa	147
+vināśay	147
+turaga	147
+viśram	147
+ulkā	146
+kaṣṭa	146
+samavāya	146
+bhukti	146
+pānīya	146
+sphaṭika	146
+avagāh	146
+samāsthā	146
+vajramūṣā	146
+aśvatthāman	146
+dhik	146
+abhipad	146
+apanī	146
+abhiyuj	146
+vijñāpay	146
+viśṛ	146
+pradīp	145
+mandira	145
+kaliṅga	145
+aśakta	145
+godhūma	145
+ādara	145
+śuśrūṣā	145
+bherī	145
+ghṛṣ	145
+mastaka	145
+āvartay	145
+hiṅgu	145
+chad	145
+vaśya	144
+anātha	144
+pāla	144
+kīdṛśa	144
+senāpati	144
+rañjana	144
+karañja	144
+sārivā	144
+prajval	144
+carv	143
+brahmahatyā	143
+cirāt	143
+śaunaka	143
+kaṇā	143
+lakṣya	143
+satī	143
+āvarta	143
+ṛddhi	143
+kāṅkṣ	143
+lag	143
+apekṣ	143
+vidārī	143
+laya	143
+vṛṣabha	143
+saṃvāda	142
+durāsada	142
+avaśiṣ	142
+kalaśa	142
+valla	142
+mauktika	142
+daṃśa	142
+karṇikā	142
+gal	141
+sāntvay	141
+phaṭ	141
+tithi	141
+ariṣṭa	141
+saṃtati	141
+bhairava	141
+mātraka	141
+śaṅkā	141
+sainika	141
+āḍhaka	141
+samagra	141
+bodha	141
+kekaya	141
+prākāra	141
+anyatara	141
+kram	141
+yadu	141
+gā	141
+vibhāvay	140
+nivāsa	140
+secay	140
+aguru	140
+vallabha	140
+vāsuki	140
+kiṃca	140
+anurañj	140
+pracoday	140
+upala	140
+ārjava	140
+ativṛt	140
+bhaikṣa	140
+samānī	140
+saktu	139
+yathāśakti	139
+nikṛt	139
+pīnasa	139
+upacar	139
+upajan	139
+dāyāda	139
+arjay	139
+valmīka	139
+kamp	138
+prasah	138
+nīca	138
+gulma	138
+madra	138
+āroha	138
+mithas	138
+śarīrin	138
+bhūnāga	138
+vyūh	138
+jaṅghā	138
+sauvarcala	138
+samam	138
+kāca	138
+kuṭaja	137
+jvālay	137
+śrotriya	137
+tritaya	137
+vicūrṇay	137
+vyāla	137
+cāraṇa	137
+ape	137
+sambhāvay	137
+nirbhid	137
+snāpay	137
+toda	137
+kāṅkṣin	137
+daśana	137
+ajara	137
+tvarita	137
+aṣṭamī	137
+vināśin	136
+caura	136
+nibandh	136
+kubera	136
+piṣṭī	136
+jīmūta	136
+rādheya	136
+vṛttānta	136
+anupaś	136
+nimajj	136
+sūnu	136
+acira	136
+ambuda	136
+viśvakarman	136
+kṣan	136
+abhyāgam	136
+śarmiṣṭhā	136
+pañcamūla	135
+tarhi	135
+makara	135
+yādṛśa	135
+prasvap	135
+jāgṛ	135
+upaci	135
+piṣṭikā	135
+prayāga	135
+vijayā	135
+pracakṣ	135
+dvis	135
+abhitas	135
+avaśeṣa	135
+dvār	135
+vyakti	134
+guṇay	134
+variṣṭha	134
+puṣya	134
+kukkuṭa	134
+ceṣṭ	134
+dhamani	134
+siṃhanāda	134
+devarṣi	134
+yatheṣṭa	134
+kṛtārtha	134
+pravad	134
