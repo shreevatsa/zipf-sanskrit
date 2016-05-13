@@ -8,7 +8,7 @@ import sys
 import matplotlib
 import matplotlib.pyplot as plot
 
-xs = [math.log(rank) for rank in range(1, 1000)]
+xs = [math.log(rank) for rank in range(1, 2000)]
 # matplotlib.rc('font', family='Arial')
 matplotlib.rc('legend', fontsize='small')
 plot.xlabel('log(rank)')
